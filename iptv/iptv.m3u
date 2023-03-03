@@ -2000,909 +2000,6 @@ TVSources &id='mir basketbola_d0'
 #EXTINF:-1 tvg-logo="../Channel/Logo/Классика кино.png" tvg-id="b304261c363d167f76201127d358bce2_klassika-kino" $ExtFilter="TVSources" is-favorite="1",Классика кино
 #EXTGRP:Фильмы
 TVSources &id='klassika kino_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/.black.png" tvg-id="b304261c363d167f76201127d358bce2_sony-turbo" $ExtFilter="TVSources",.black
-#EXTGRP:Познавательные
-TVSources &id='.black_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Домашний-ТВК6.png" tvg-id="b304261c363d167f76201127d358bce2_domashny" $ExtFilter="TVSources",Домашний HD
-#EXTGRP:Федеральные
-TVSources &id='domashnij hd_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/360° HD.png" tvg-id="b304261c363d167f76201127d358bce2_360-news" $ExtFilter="TVSources",360° HD
-#EXTGRP:Познавательные
-TVSources &id='360176 hd_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Мир сериала.png" tvg-id="b304261c363d167f76201127d358bce2_mir-seriala" $ExtFilter="TVSources",Мир сериала
-#EXTGRP:Фильмы
-TVSources &id='mir seriala_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Viasat explore.png" tvg-id="b304261c363d167f76201127d358bce2_viasat-explore" $ExtFilter="TVSources",Viasat Explore
-#EXTGRP:Познавательные
-TVSources &id='viasat explore_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Пятый канал.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Пятый_Канал" $ExtFilter="TVSources",Пятый канал (+4)
-#EXTGRP:Новосибирск
-TVSources &id='pyatyj kanal (+4)_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Мужское кино.png" tvg-id="b304261c363d167f76201127d358bce2_muzhskoe-kino" $ExtFilter="TVSources",Мужское кино
-#EXTGRP:КиноМИР
-TVSources &id='muzhskoe kino_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Первый Театральный Канал.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Первый_Тульский" $ExtFilter="TVSources",Первый Театральный Канал
-#EXTGRP:Развлекательные
-TVSources &id='pervyj teatral`nyj kanal_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Кинопоказ.png" tvg-id="b304261c363d167f76201127d358bce2_kinopokaz" $ExtFilter="TVSources",Кинопоказ
-#EXTGRP:Фильмы
-TVSources &id='kinopokaz_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Россия К.png" tvg-id="b304261c363d167f76201127d358bce2_kultura-pl2" $ExtFilter="TVSources",Россия К (+2)
-#EXTGRP:Федеральные
-TVSources &id='rossiya k (+2)_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Звезда.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Звезда" $ExtFilter="TVSources",Звезда
-#EXTGRP:Федеральные
-TVSources &id='zvezda_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Дом кино премиум HD.png" tvg-id="b304261c363d167f76201127d358bce2_domkino-premium" $ExtFilter="TVSources",Дом кино премиум HD
-#EXTGRP:Фильмы
-TVSources &id='dom kino premium hd_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Music Box Gold.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_MUSIC_Box_TV" $ExtFilter="TVSources",MUSIC BOX GOLD
-#EXTGRP:Музыка
-TVSources &id='music box gold_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/ТВЦ.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_ТВ Центр (+2)" $ExtFilter="TVSources",ТВЦ (+4)
-#EXTGRP:Новосибирск
-TVSources &id='tvcz (+4)_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Комедийное.png" tvg-id="b304261c363d167f76201127d358bce2_komedijnoe" $ExtFilter="TVSources",Комедийное
-#EXTGRP:Фильмы
-TVSources &id='komedijnoe_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="b304261c363d167f76201127d358bce2_rossia1-pl6" $ExtFilter="TVSources",Россия 1 (+6)
-#EXTGRP:Федеральные
-TVSources &id='rossiya 1 (+6)_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/СТС HD.png" tvg-id="b304261c363d167f76201127d358bce2_sts" $ExtFilter="TVSources",СТС HD
-#EXTGRP:Федеральные
-TVSources &id='sts hd_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/НТВ (+2).png" tvg-id="b304261c363d167f76201127d358bce2_ntv-pl2" $ExtFilter="TVSources",НТВ (+2)
-#EXTGRP:Федеральные
-TVSources &id='ntv (+2)_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Bollywood HD.png" tvg-id="b304261c363d167f76201127d358bce2_bollywood-hd" $ExtFilter="TVSources",Bollywood HD
-#EXTGRP:Индия
-TVSources &id='bollywood hd_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/FOX.png" tvg-id="b304261c363d167f76201127d358bce2_fox" $ExtFilter="TVSources",FOX
-#EXTGRP:Фильмы
-TVSources &id='fox_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/В мире животных.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_В_мире_животных" $ExtFilter="TVSources",В мире животных
-#EXTGRP:Познавательные
-TVSources &id='v mire zhivotnykh_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Дом кино.png" tvg-id="b304261c363d167f76201127d358bce2_domkino" $ExtFilter="TVSources",Дом кино
-#EXTGRP:Фильмы
-TVSources &id='dom kino_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Ultra HD Cinema.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Ultra_HD_Cinema" $ExtFilter="TVSources",Ultra HD Cinema 4k
-#EXTGRP:Фильмы
-TVSources &id='ultra hd cinema 4k_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="b304261c363d167f76201127d358bce2_rossia1-pl5" $ExtFilter="TVSources",Россия 1 (+5)
-#EXTGRP:Федеральные
-TVSources &id='rossiya 1 (+5)_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Viasat nature-history HD.png" tvg-id="b304261c363d167f76201127d358bce2_viasat-nature-history-hd" $ExtFilter="TVSources",Viasat Nature/History HD
-#EXTGRP:Познавательные
-TVSources &id='viasat naturehistory hd_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Bollywood HD.png" tvg-id="b304261c363d167f76201127d358bce2_bollywood-hd" $ExtFilter="TVSources",Bollywood
-#EXTGRP:Индия
-TVSources &id='bollywood_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/НТВ Стиль.png" tvg-id="b304261c363d167f76201127d358bce2_ntv-style" $ExtFilter="TVSources",НТВ Стиль
-#EXTGRP:Познавательные
-TVSources &id='ntv stil`_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/СТС Мир.png" tvg-id="b304261c363d167f76201127d358bce2_sts-int" $ExtFilter="TVSources",СТС Int
-#EXTGRP:Федеральные
-TVSources &id='sts int_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Большая Азия.png" tvg-id="b304261c363d167f76201127d358bce2_bolshaya-azia" $ExtFilter="TVSources",Большая Азия
-#EXTGRP:Познавательные
-TVSources &id='bol`shaya aziya_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Кинохит.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Кинохит" $ExtFilter="TVSources",Кинохит
-#EXTGRP:КиноМИР
-TVSources &id='kinokhit_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Министерство идей.png" tvg-id="b304261c363d167f76201127d358bce2_ministerstvo-idey" $ExtFilter="TVSources",Министерство идей
-#EXTGRP:Познавательные
-TVSources &id='ministerstvo idej_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Киносерия.png" tvg-id="b304261c363d167f76201127d358bce2_kinoseria" $ExtFilter="TVSources",Киносерия HD
-#EXTGRP:КиноМИР
-TVSources &id='kinoseriya hd_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Hollywood.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Hollywood" $ExtFilter="TVSources",Hollywood
-#EXTGRP:Фильмы
-TVSources &id='hollywood_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Россия 1.png" tvg-id="b304261c363d167f76201127d358bce2_rossia1" $ExtFilter="TVSources",Россия 1
-#EXTGRP:Федеральные
-TVSources &id='rossiya 1_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Охотник и рыболов HD.png" tvg-id="b304261c363d167f76201127d358bce2_oxotnik-i-rybolov-hd" $ExtFilter="TVSources",Охотник и рыболов HD
-#EXTGRP:Мужские
-TVSources &id='okhotnik i rybolov hd_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/A2.png" tvg-id="b304261c363d167f76201127d358bce2_amedia2" $ExtFilter="TVSources",A2
-#EXTGRP:Фильмы
-TVSources &id='a2_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Открытый мир.png" tvg-id="b304261c363d167f76201127d358bce2_otkryty-mir" $ExtFilter="TVSources",Открытый мир
-#EXTGRP:Познавательные
-TVSources &id='otkrytyj mir_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/История.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_История" $ExtFilter="TVSources",История
-#EXTGRP:Познавательные
-TVSources &id='istoriya_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Настоящее время.png" tvg-id="b304261c363d167f76201127d358bce2_nastoyaschee-vremia" $ExtFilter="TVSources",Настоящее Время
-#EXTGRP:Познавательные
-TVSources &id='nastoyashhee vremya_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Домашний-ТВК6.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Домашний" $ExtFilter="TVSources",Домашний (+7)
-#EXTGRP:Федеральные
-TVSources &id='domashnij (+7)_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Наше Крутое.png" tvg-id="b304261c363d167f76201127d358bce2_nashesd" $ExtFilter="TVSources",Наше Крутое
-#EXTGRP:Фильмы
-TVSources &id='nashe krutoe_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Setanta Sports 2.png" tvg-id="b304261c363d167f76201127d358bce2_setanta-sports-plus" $ExtFilter="TVSources",Setanta Sports 2 HD
-#EXTGRP:Матч
-TVSources &id='setanta sports 2 hd_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/ТНТ Music.png" tvg-id="b304261c363d167f76201127d358bce2_tnt-pl2" $ExtFilter="TVSources",ТНТ (+1)
-#EXTGRP:Федеральные
-TVSources &id='tnt (+1)_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Ля минор.png" tvg-id="b304261c363d167f76201127d358bce2_la-minor" $ExtFilter="TVSources",Ля минор
-#EXTGRP:Музыка
-TVSources &id='lya minor_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/НТВ Право.png" tvg-id="b304261c363d167f76201127d358bce2_ntv-pravo" $ExtFilter="TVSources",НТВ Право
-#EXTGRP:Познавательные
-TVSources &id='ntv pravo_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Discovery Science.png" tvg-id="b304261c363d167f76201127d358bce2_discovery-science" $ExtFilter="TVSources",Discovery Science
-#EXTGRP:Познавательные
-TVSources &id='discovery science_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/DocuBox.png" tvg-id="b304261c363d167f76201127d358bce2_docubox-hd" $ExtFilter="TVSources",DocuBox
-#EXTGRP:Познавательные
-TVSources &id='docubox_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Trash.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Trash" $ExtFilter="TVSources",Trash HD
-#EXTGRP:Фильмы
-TVSources &id='trash hd_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/СТВ РЕН ТВ (Беларусь).png" tvg-id="b304261c363d167f76201127d358bce2_rentv-int" $ExtFilter="TVSources",Рен ТВ International
-#EXTGRP:Федеральные
-TVSources &id='ren tv international_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/НТВ (+7).png" tvg-id="b304261c363d167f76201127d358bce2_ntv-pl7" $ExtFilter="TVSources",НТВ (+7)
-#EXTGRP:Федеральные
-TVSources &id='ntv (+7)_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/ТВ-3 HD.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_ТВ-3" $ExtFilter="TVSources",ТВ-3 (+4)
-#EXTGRP:Новосибирск
-TVSources &id='tv 3 (+4)_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Наша сибирь.png" tvg-id="b304261c363d167f76201127d358bce2_nasha-sibir" $ExtFilter="TVSources",Наша Сибирь HD
-#EXTGRP:Познавательные
-TVSources &id='nasha sibir` hd_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/СТВ РЕН ТВ (Беларусь).png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Рен_ТВ_(_2)" $ExtFilter="TVSources",РЕН ТВ (+2)
-#EXTGRP:Федеральные
-TVSources &id='ren tv (+2)_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Кино ТВ HD.png" tvg-id="b304261c363d167f76201127d358bce2_kino-tv" $ExtFilter="TVSources",КИНО ТВ HD
-#EXTGRP:Фильмы
-TVSources &id='kino tv hd_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Советское кино.png" tvg-id="b304261c363d167f76201127d358bce2_sovkino" $ExtFilter="TVSources",Советское кино
-#EXTGRP:Фильмы
-TVSources &id='sovetskoe kino_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/2x2.png" tvg-id="b304261c363d167f76201127d358bce2_2na2-pl4" $ExtFilter="TVSources",2x2 (+4)
-#EXTGRP:Новосибирск
-TVSources &id='2x2 (+4)_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Победа.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Победа" $ExtFilter="TVSources",Победа
-#EXTGRP:Федеральные
-TVSources &id='pobeda_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Шокирующее.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Шокирующее" $ExtFilter="TVSources",Шокирующее
-#EXTGRP:Фильмы
-TVSources &id='shokiruyushhee_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Звезда.png" tvg-id="b304261c363d167f76201127d358bce2_zvezda-pl7" $ExtFilter="TVSources",Звезда (+7)
-#EXTGRP:Федеральные
-TVSources &id='zvezda (+7)_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Первый канал.png" tvg-id="b304261c363d167f76201127d358bce2_pervy" $ExtFilter="TVSources",Первый канал
-#EXTGRP:Федеральные
-TVSources &id='pervyj kanal_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Домашний-ТВК6.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Домашний" $ExtFilter="TVSources",Домашний (+2)
-#EXTGRP:Федеральные
-TVSources &id='domashnij (+2)_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Остросюжетное HD.png" tvg-id="b304261c363d167f76201127d358bce2_ostrosiuzhetnoe-hd" $ExtFilter="TVSources",Остросюжетное HD
-#EXTGRP:Фильмы
-TVSources &id='ostrosyuzhetnoe hd_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Animal Planet.png" tvg-id="b304261c363d167f76201127d358bce2_animal-planet-eu" $ExtFilter="TVSources",Animal Planet
-#EXTGRP:Познавательные
-TVSources &id='animal planet_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Первый канал HD2.png" tvg-id="b304261c363d167f76201127d358bce2_pervy-pl2" $ExtFilter="TVSources",Первый канал (+2)
-#EXTGRP:Федеральные
-TVSources &id='pervyj kanal (+2)_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Киномикс.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Киномикс" $ExtFilter="TVSources",Киномикс
-#EXTGRP:КиноМИР
-TVSources &id='kinomiks_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/RTG.png" tvg-id="b304261c363d167f76201127d358bce2_rtg-tv" $ExtFilter="TVSources",RTG
-#EXTGRP:Познавательные
-TVSources &id='rtg_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/History.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_History" $ExtFilter="TVSources",History
-#EXTGRP:Познавательные
-TVSources &id='history_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Eurosport 1 HD.png" tvg-id="b304261c363d167f76201127d358bce2_eurosport1" $ExtFilter="TVSources",Eurosport 1 HD
-#EXTGRP:Матч
-TVSources &id='eurosport 1 hd_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Первый канал HD2.png" tvg-id="b304261c363d167f76201127d358bce2_pervy-pl1" $ExtFilter="TVSources",Первый канал (+1)
-#EXTGRP:Федеральные
-TVSources &id='pervyj kanal (+1)_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Первый канал HD2.png" tvg-id="b304261c363d167f76201127d358bce2_pervy-pl3" $ExtFilter="TVSources",Первый канал (+3)
-#EXTGRP:Федеральные
-TVSources &id='pervyj kanal (+3)_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Бобёр.png" tvg-id="b304261c363d167f76201127d358bce2_bobior" $ExtFilter="TVSources",Бобёр
-#EXTGRP:Познавательные
-TVSources &id='bobyor_d0'
-#EXTINF:-1 tvg-logo="https://picon.ml/muvitv.png" tvg-id="b304261c363d167f76201127d358bce2_muvitv" $ExtFilter="TVSources",Муви ТВ
-#EXTGRP:Фильмы
-TVSources &id='muvi tv_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Домашний-ТВК6.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Домашний" $ExtFilter="TVSources",Домашний (+4)
-#EXTGRP:Новосибирск
-TVSources &id='domashnij (+4)_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Первый канал HD2.png" tvg-id="b304261c363d167f76201127d358bce2_pervy-mn1" $ExtFilter="TVSources",Первый канал (-1)
-#EXTGRP:Федеральные
-TVSources &id='pervyj kanal ( 1)_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Театр.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Театр" $ExtFilter="TVSources",Театр
-#EXTGRP:Развлекательные
-TVSources &id='teatr_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/National Geographic HD.png" tvg-id="b304261c363d167f76201127d358bce2_national-geographic" $ExtFilter="TVSources",National Geographic HD
-#EXTGRP:Познавательные
-TVSources &id='national geographic hd_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/TLC HD.png" tvg-id="b304261c363d167f76201127d358bce2_tlc" $ExtFilter="TVSources",TLC HD
-#EXTGRP:Познавательные
-TVSources &id='tlc hd_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Комедийное.png" tvg-id="b304261c363d167f76201127d358bce2_komedijnoe-hd" $ExtFilter="TVSources",Комедийное HD
-#EXTGRP:Фильмы
-TVSources &id='komedijnoe hd_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Наш детектив.png" tvg-id="b304261c363d167f76201127d358bce2_nash-dom" $ExtFilter="TVSources",Наш дом
-#EXTGRP:Познавательные
-TVSources &id='nash dom_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Russian Extreme Ultra.png" tvg-id="b304261c363d167f76201127d358bce2_russian-extreme-uhd" $ExtFilter="TVSources",Russian Extreme Ultra HD
-#EXTGRP:4K
-TVSources &id='russian extreme ultra hd_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Bridge HD.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Bridge_HD" $ExtFilter="TVSources",BRIDGE HITS HD
-#EXTGRP:Музыка
-TVSources &id='bridge hits hd_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Первый Космический.png" tvg-id="b304261c363d167f76201127d358bce2_eureka-hd" $ExtFilter="TVSources",Первый Космический HD
-#EXTGRP:Познавательные
-TVSources &id='pervyj kosmicheskij hd_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Кинокомедия.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Кинокомедия" $ExtFilter="TVSources",Кинокомедия
-#EXTGRP:КиноМИР
-TVSources &id='kinokomediya_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Viasat history.png" tvg-id="b304261c363d167f76201127d358bce2_viasat-history" $ExtFilter="TVSources",Viasat History
-#EXTGRP:Познавательные
-TVSources &id='viasat history_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="b304261c363d167f76201127d358bce2_rossia1-pl7" $ExtFilter="TVSources",Россия 1 (+7)
-#EXTGRP:Федеральные
-TVSources &id='rossiya 1 (+7)_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Киносемья.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Киносемья" $ExtFilter="TVSources",Киносемья
-#EXTGRP:КиноМИР
-TVSources &id='kinosem`ya_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Zoo TV.png" tvg-id="b304261c363d167f76201127d358bce2_zootv" $ExtFilter="TVSources",Zoo TV
-#EXTGRP:Познавательные
-TVSources &id='zoo tv_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/DTX.png" tvg-id="b304261c363d167f76201127d358bce2_dtx" $ExtFilter="TVSources",DTX
-#EXTGRP:Познавательные
-TVSources &id='dtx_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/ТНТ Music.png" tvg-id="b304261c363d167f76201127d358bce2_tnt-music" $ExtFilter="TVSources",ТНТ MUSIC HD
-#EXTGRP:Музыка
-TVSources &id='tnt music hd_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/ТВ-3.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_ТВ-3" $ExtFilter="TVSources",ТВ-3
-#EXTGRP:Федеральные
-TVSources &id='tv 3_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Animal Planet HD.png" tvg-id="b304261c363d167f76201127d358bce2_animal-planet-eu" $ExtFilter="TVSources",Animal Planet HD
-#EXTGRP:Познавательные
-TVSources &id='animal planet hd_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/HD Media.png" tvg-id="b304261c363d167f76201127d358bce2_hd-media" $ExtFilter="TVSources",HD Media
-#EXTGRP:Познавательные
-TVSources &id='hd media_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Nat Geo Wild.png" tvg-id="b304261c363d167f76201127d358bce2_nat-geo-wild" $ExtFilter="TVSources",Nat Geo Wild
-#EXTGRP:Познавательные
-TVSources &id='nat geo wild_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/8 Канал (Новосибирск).png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_8_канал_(Беларусь)" $ExtFilter="TVSources",8 канал (Новосибирск)
-#EXTGRP:Новосибирск
-TVSources &id='8 kanal (novosibirsk)_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Viasat history HD.png" tvg-id="b304261c363d167f76201127d358bce2_viasat-history" $ExtFilter="TVSources",Viasat History HD
-#EXTGRP:Познавательные
-TVSources &id='viasat history hd_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/8 Канал.png" tvg-id="b304261c363d167f76201127d358bce2_8kanal-ru" $ExtFilter="TVSources",8 канал
-#EXTGRP:Новосибирск
-TVSources &id='8 kanal_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Киносат.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Киносат" $ExtFilter="TVSources",КиноСат
-#EXTGRP:Фильмы
-TVSources &id='kinosat_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Discovery Science HD.png" tvg-id="b304261c363d167f76201127d358bce2_discovery-science" $ExtFilter="TVSources",Discovery Science HD
-#EXTGRP:Познавательные
-TVSources &id='discovery science hd_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Киномикс.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Киномикс" $ExtFilter="TVSources",Киноман
-#EXTGRP:Фильмы
-TVSources &id='kinoman_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Шокирующее.png" tvg-id="b304261c363d167f76201127d358bce2_shokiruyushchee-hd" $ExtFilter="TVSources",Шокирующее HD
-#EXTGRP:Фильмы
-TVSources &id='shokiruyushhee hd_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/BRIDGE TV DELUXE.png" tvg-id="b304261c363d167f76201127d358bce2_bridge-hd" $ExtFilter="TVSources",Bridge TV Deluxe
-#EXTGRP:Музыка
-TVSources &id='bridge tv deluxe_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/СТС.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_СТС" $ExtFilter="TVSources",СТС
-#EXTGRP:Федеральные
-TVSources &id='sts_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Дом кино премиум HD.png" tvg-id="b304261c363d167f76201127d358bce2_domkino-premium" $ExtFilter="TVSources",Дом кино премиум
-#EXTGRP:Фильмы
-TVSources &id='dom kino premium_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/ОТС.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_ОТС" $ExtFilter="TVSources",ОТС
-#EXTGRP:Новосибирск
-TVSources &id='ots_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Da Vinci learning.png" tvg-id="b304261c363d167f76201127d358bce2_da-vinci" $ExtFilter="TVSources",Da Vinci Learning
-#EXTGRP:Познавательные
-TVSources &id='da vinci learning_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/RU TV HD.png" tvg-id="b304261c363d167f76201127d358bce2_ru-tv" $ExtFilter="TVSources",RU TV HD
-#EXTGRP:Музыка
-TVSources &id='ru tv hd_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Родное кино.png" tvg-id="b304261c363d167f76201127d358bce2_rodnoe-kino" $ExtFilter="TVSources",Родное кино
-#EXTGRP:КиноМИР
-TVSources &id='rodnoe kino_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Советские мультфильмы.png" tvg-id="b304261c363d167f76201127d358bce2_sovmultf" $ExtFilter="TVSources",Советские Мультфильмы
-#EXTGRP:Фильмы
-TVSources &id='sovetskie mul`tfil`my_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Пятница! HD.png" tvg-id="b304261c363d167f76201127d358bce2_piatnica" $ExtFilter="TVSources",Пятница! (+4)
-#EXTGRP:Новосибирск
-TVSources &id='pyatnicza! (+4)_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Страна.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Матч!_Страна" $ExtFilter="TVSources",Матч! Страна HD
-#EXTGRP:Матч
-TVSources &id='match! strana hd_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/CGTN Русский.png" tvg-id="b304261c363d167f76201127d358bce2_cctv-ru" $ExtFilter="TVSources",CGTN Русский
-#EXTGRP:Фильмы
-TVSources &id='cgtn russkij_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="b304261c363d167f76201127d358bce2_rossia1-pl1" $ExtFilter="TVSources",Россия 1 (-1)
-#EXTGRP:Федеральные
-TVSources &id='rossiya 1 ( 1)_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Пятый канал.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Пятый_Канал" $ExtFilter="TVSources",Пятый канал (+7)
-#EXTGRP:Федеральные
-TVSources &id='pyatyj kanal (+7)_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/ТВЦ.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_ТВ Центр (+2)" $ExtFilter="TVSources",ТВЦ (+7)
-#EXTGRP:Федеральные
-TVSources &id='tvcz (+7)_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Морской.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Морской" $ExtFilter="TVSources",Морской
-#EXTGRP:Познавательные
-TVSources &id='morskoj_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Paramount Channel.png" tvg-id="b304261c363d167f76201127d358bce2_paramount-channel" $ExtFilter="TVSources",Paramount Channel
-#EXTGRP:Фильмы
-TVSources &id='paramount channel_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="b304261c363d167f76201127d358bce2_rossia1-pl3" $ExtFilter="TVSources",Россия 1 (+3)
-#EXTGRP:Федеральные
-TVSources &id='rossiya 1 (+3)_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/.red HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Red Bull HD" $ExtFilter="TVSources",Red Bull TV UHD
-#EXTGRP:4K
-TVSources &id='red bull tv uhd_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Пятый канал.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Пятый_Канал" $ExtFilter="TVSources",Пятый канал (+2)
-#EXTGRP:Федеральные
-TVSources &id='pyatyj kanal (+2)_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/TLC.png" tvg-id="b304261c363d167f76201127d358bce2_tlc" $ExtFilter="TVSources",TLC
-#EXTGRP:Познавательные
-TVSources &id='tlc_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/FilmBox.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_FilmBox" $ExtFilter="TVSources",FilmBox
-#EXTGRP:Фильмы
-TVSources &id='filmbox_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Настоящее страшное ТВ.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Настоящее_Страшное_Телевидение" $ExtFilter="TVSources",Настоящее Страшное Телевидение
-#EXTGRP:Фильмы
-TVSources &id='nastoyashhee strashnoe televidenie_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Ностальгия.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Ностальгия" $ExtFilter="TVSources",Ностальгия
-#EXTGRP:Развлекательные
-TVSources &id='nostal`giya_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Моя планета.png" tvg-id="b304261c363d167f76201127d358bce2_moya-planeta" $ExtFilter="TVSources",Моя планета
-#EXTGRP:Познавательные
-TVSources &id='moya planeta_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/ТНТ.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_ТНТ" $ExtFilter="TVSources",ТНТ
-#EXTGRP:Федеральные
-TVSources &id='tnt_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Центральное телевидение.png" tvg-id="b304261c363d167f76201127d358bce2_centralnoye-tv" $ExtFilter="TVSources",Центральное телевидение
-#EXTGRP:Познавательные
-TVSources &id='czentral`noe televidenie_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Кинопремьера.png" tvg-id="b304261c363d167f76201127d358bce2_kinopremiera-hd" $ExtFilter="TVSources",Кинопремьера HD
-#EXTGRP:КиноМИР
-TVSources &id='kinoprem`era hd_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/ТНТ HD.png" tvg-id="b304261c363d167f76201127d358bce2_tnt" $ExtFilter="TVSources",ТНТ HD
-#EXTGRP:Федеральные
-TVSources &id='tnt hd_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Россия К.png" tvg-id="b304261c363d167f76201127d358bce2_kultura-pl7" $ExtFilter="TVSources",Россия К (+7)
-#EXTGRP:Федеральные
-TVSources &id='rossiya k (+7)_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Первый канал HD.png" tvg-id="b304261c363d167f76201127d358bce2_pervy" $ExtFilter="TVSources",Первый канал HD
-#EXTGRP:Федеральные
-TVSources &id='pervyj kanal hd_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/TV1000 Русское кино HD.png" tvg-id="b304261c363d167f76201127d358bce2_tv1000-russkoe-kino" $ExtFilter="TVSources",TV1000 Русское кино HD
-#EXTGRP:Фильмы
-TVSources &id='tv1000 russkoe kino hd_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Наука.png" tvg-id="b304261c363d167f76201127d358bce2_nauka-20" $ExtFilter="TVSources",Наука 2.0
-#EXTGRP:Познавательные
-TVSources &id='nauka 2.0_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Россия К.png" tvg-id="b304261c363d167f76201127d358bce2_kultura" $ExtFilter="TVSources",Россия К
-#EXTGRP:Федеральные
-TVSources &id='rossiya k_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Music Box Russia.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_MUSIC_Box_TV" $ExtFilter="TVSources",MUSIC BOX RUSSIAN HD
-#EXTGRP:Общие
-TVSources &id='music box russian hd_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Футбол 2 HD.png" tvg-id="b304261c363d167f76201127d358bce2_match-football2" $ExtFilter="TVSources",Матч! Футбол 2 HD
-#EXTGRP:Матч
-TVSources &id='match! futbol 2 hd_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/.sci-fi.png" tvg-id="b304261c363d167f76201127d358bce2_sony-scifi" $ExtFilter="TVSources",.sci-fi
-#EXTGRP:Фильмы
-TVSources &id='.sci fi_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/vip megahit.png" tvg-id="b304261c363d167f76201127d358bce2_vip-megahit" $ExtFilter="TVSources",VIP Megahit
-#EXTGRP:Фильмы
-TVSources &id='vip megahit_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/ЕГЭ ТВ.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_ЕГЭ_ТВ" $ExtFilter="TVSources",ЕГЭ ТВ
-#EXTGRP:Познавательные
-TVSources &id='ege tv_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Travel channel HD.png" tvg-id="b304261c363d167f76201127d358bce2_travel-channel" $ExtFilter="TVSources",Travel Channel HD
-#EXTGRP:Познавательные
-TVSources &id='travel channel hd_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/РЕН ТВ HD.png" tvg-id="b304261c363d167f76201127d358bce2_rentv" $ExtFilter="TVSources",РЕН ТВ HD
-#EXTGRP:Федеральные
-TVSources &id='ren tv hd_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/ТНТ Music.png" tvg-id="b304261c363d167f76201127d358bce2_tnt-pl4" $ExtFilter="TVSources",ТНТ (+4)
-#EXTGRP:Новосибирск
-TVSources &id='tnt (+4)_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/СТВ РЕН ТВ (Беларусь).png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Рен_ТВ_(_2)" $ExtFilter="TVSources",РЕН ТВ (+4)
-#EXTGRP:Новосибирск
-TVSources &id='ren tv (+4)_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Домашний.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Домашний" $ExtFilter="TVSources",Домашний
-#EXTGRP:Федеральные
-TVSources &id='domashnij_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/TV1000 HD.png" tvg-id="b304261c363d167f76201127d358bce2_tv1000" $ExtFilter="TVSources",TV1000 HD
-#EXTGRP:Фильмы
-TVSources &id='tv1000 hd_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Sony Turbo.png" tvg-id="b304261c363d167f76201127d358bce2_sony-turbo" $ExtFilter="TVSources",Sony Turbo
-#EXTGRP:Фильмы
-TVSources &id='sony turbo_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/vip megahit.png" tvg-id="b304261c363d167f76201127d358bce2_vip-megahit" $ExtFilter="TVSources",VIP Megahit HD
-#EXTGRP:Фильмы
-TVSources &id='vip megahit hd_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Amedia Premium HD.png" tvg-id="b304261c363d167f76201127d358bce2_amedia-premium" $ExtFilter="TVSources",Amedia Premium HD
-#EXTGRP:Фильмы
-TVSources &id='amedia premium hd_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Мир 24.png" tvg-id="b304261c363d167f76201127d358bce2_mir-pl4" $ExtFilter="TVSources",Мир (+4)
-#EXTGRP:Новосибирск
-TVSources &id='mir (+4)_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Старт.png" tvg-id="b304261c363d167f76201127d358bce2_start" $ExtFilter="TVSources",СТАРТ HD
-#EXTGRP:Спорт
-TVSources &id='start hd_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Bolt HD.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Bolt" $ExtFilter="TVSources",Bolt
-#EXTGRP:Фильмы
-TVSources &id='bolt_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Nano.png" tvg-id="b304261c363d167f76201127d358bce2_nano-hd" $ExtFilter="TVSources",Nano
-#EXTGRP:Познавательные
-TVSources &id='nano_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Киносемья.png" tvg-id="b304261c363d167f76201127d358bce2_kinosemiya" $ExtFilter="TVSources",Киносемья HD
-#EXTGRP:КиноМИР
-TVSources &id='kinosem`ya hd_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Travel + Adventure.png" tvg-id="b304261c363d167f76201127d358bce2_utravel" $ExtFilter="TVSources",Travel + Adventure HD
-#EXTGRP:Познавательные
-TVSources &id='travel + adventure hd_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Кино премиум HD.png" tvg-id="b304261c363d167f76201127d358bce2_premialnoe-hd" $ExtFilter="TVSources",Премиальное HD
-#EXTGRP:Фильмы
-TVSources &id='premial`noe hd_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Домашний-ТВК6.png" tvg-id="b304261c363d167f76201127d358bce2_domashny-int" $ExtFilter="TVSources",Домашний Int
-#EXTGRP:Федеральные
-TVSources &id='domashnij int_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Киносемья.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Киносемья" $ExtFilter="TVSources",Киносемья FHD
-#EXTGRP:КиноМИР
-TVSources &id='kinosem`ya fhd_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/BRIDGE TV.png" tvg-id="b304261c363d167f76201127d358bce2_bridge-tv" $ExtFilter="TVSources",Bridge TV
-#EXTGRP:Музыка
-TVSources &id='bridge tv_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Univer TV.png" tvg-id="b304261c363d167f76201127d358bce2_univer-tv" $ExtFilter="TVSources",UNIVER TV HD (Казань)
-#EXTGRP:Познавательные
-TVSources &id='univer tv hd (kazan`)_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Мультимузыка.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Мультимузыка" $ExtFilter="TVSources",Мультимузыка
-#EXTGRP:Музыка
-TVSources &id='mul`timuzyka_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Viasat nature.png" tvg-id="b304261c363d167f76201127d358bce2_viasat-nature" $ExtFilter="TVSources",Viasat Nature
-#EXTGRP:Познавательные
-TVSources &id='viasat nature_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/History 2.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_History_2" $ExtFilter="TVSources",History 2
-#EXTGRP:Познавательные
-TVSources &id='history 2_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Наш кинороман.png" tvg-id="b304261c363d167f76201127d358bce2_dushevnoe" $ExtFilter="TVSources",Наш Кинороман
-#EXTGRP:Фильмы
-TVSources &id='nash kinoroman_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Перпетуум мобиле.png" tvg-id="b304261c363d167f76201127d358bce2_perpetmobile" $ExtFilter="TVSources",Перпетуум Мобиле
-#EXTGRP:Познавательные
-TVSources &id='perpetuum mobile_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/vip premiere.png" tvg-id="b304261c363d167f76201127d358bce2_vip-premiere" $ExtFilter="TVSources",VIP Premiere HD
-#EXTGRP:Фильмы
-TVSources &id='vip premiere hd_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/BRIDGE TV РУССКИЙ ХИТ.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Bridge_HD" $ExtFilter="TVSources",BRIDGE Русский Хит HD
-#EXTGRP:Общие
-TVSources &id='bridge russkij khit hd_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Иллюзион+.png" tvg-id="b304261c363d167f76201127d358bce2_illuzion-plus" $ExtFilter="TVSources",Иллюзион+
-#EXTGRP:Фильмы
-TVSources &id='illyuzion+_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="b304261c363d167f76201127d358bce2_rossia1-pl9" $ExtFilter="TVSources",Россия 1 (+9)
-#EXTGRP:Федеральные
-TVSources &id='rossiya 1 (+9)_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Че!2.png" tvg-id="b304261c363d167f76201127d358bce2_che-pl4" $ExtFilter="TVSources",Че! (+4)
-#EXTGRP:Новосибирск
-TVSources &id='che! (+4)_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Кто есть кто.png" tvg-id="b304261c363d167f76201127d358bce2_kto-est-kto" $ExtFilter="TVSources",Кто есть кто
-#EXTGRP:Познавательные
-TVSources &id='kto est` kto_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Первый канал HD2.png" tvg-id="b304261c363d167f76201127d358bce2_pervy-pl7" $ExtFilter="TVSources",Первый канал (+7)
-#EXTGRP:Федеральные
-TVSources &id='pervyj kanal (+7)_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Домашние животные .png" tvg-id="b304261c363d167f76201127d358bce2_domashnie-zhivotnye" $ExtFilter="TVSources",Домашние животные
-#EXTGRP:Познавательные
-TVSources &id='domashnie zhivotnye_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/ID Investigation Discovery HD.png" tvg-id="b304261c363d167f76201127d358bce2_id-xtra-eu" $ExtFilter="TVSources",ID Investigation Discovery HD
-#EXTGRP:Познавательные
-TVSources &id='id investigation discovery hd_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Travel+ adventure HD.png" tvg-id="b304261c363d167f76201127d358bce2_travel-adventure" $ExtFilter="TVSources",Travel+ Adventure HD
-#EXTGRP:Познавательные
-TVSources &id='travel+ adventure hd_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Феникс плюс кино.png" tvg-id="b304261c363d167f76201127d358bce2_feniks-plus-kino" $ExtFilter="TVSources",Феникс+ кино
-#EXTGRP:Фильмы
-TVSources &id='feniks+ kino_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Русский роман.png" tvg-id="b304261c363d167f76201127d358bce2_russky-roman" $ExtFilter="TVSources",Русский роман
-#EXTGRP:Фильмы
-TVSources &id='russkij roman_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Страна.png" tvg-id="b304261c363d167f76201127d358bce2_match-nash-sport" $ExtFilter="TVSources",Матч! Страна
-#EXTGRP:Матч
-TVSources &id='match! strana_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Наша сибирь.png" tvg-id="b304261c363d167f76201127d358bce2_nasha-sibir-4k" $ExtFilter="TVSources",Наша Сибирь 4K HD
-#EXTGRP:Новосибирск
-TVSources &id='nasha sibir` 4k hd_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Discovery Channel.png" tvg-id="b304261c363d167f76201127d358bce2_discovery-channel" $ExtFilter="TVSources",Discovery Channel
-#EXTGRP:Познавательные
-TVSources &id='discovery channel_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/РТР Планета.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_РТР_Планета_СНГ" $ExtFilter="TVSources",РТР Планета
-#EXTGRP:Федеральные
-TVSources &id='rtr planeta_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Русская ночь.png" tvg-id="b304261c363d167f76201127d358bce2_russkaya-komedia" $ExtFilter="TVSources",Русская комедия
-#EXTGRP:Фильмы
-TVSources &id='russkaya komediya_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/360°.png" tvg-id="b304261c363d167f76201127d358bce2_360-news" $ExtFilter="TVSources",360°
-#EXTGRP:Познавательные
-TVSources &id='360176_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Романтичное.png" tvg-id="b304261c363d167f76201127d358bce2_romantichnoe-hd" $ExtFilter="TVSources",Романтичное HD
-#EXTGRP:Фильмы
-TVSources &id='romantichnoe hd_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Первый канал HD2.png" tvg-id="b304261c363d167f76201127d358bce2_pervy-pl8" $ExtFilter="TVSources",Первый канал (+8)
-#EXTGRP:Федеральные
-TVSources &id='pervyj kanal (+8)_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Наше любимое кино.png" tvg-id="b304261c363d167f76201127d358bce2_nashe-lubimoe-kino-ua" $ExtFilter="TVSources",Наше любимое кино
-#EXTGRP:Фильмы
-TVSources &id='nashe lyubimoe kino_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Первый Космический.png" tvg-id="b304261c363d167f76201127d358bce2_eureka-hd" $ExtFilter="TVSources",Первый космический
-#EXTGRP:Познавательные
-TVSources &id='pervyj kosmicheskij_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/ТВ-3 HD.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_ТВ-3" $ExtFilter="TVSources",ТВ-3 (+2)
-#EXTGRP:Федеральные
-TVSources &id='tv 3 (+2)_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Неизвестная планета.png" tvg-id="b304261c363d167f76201127d358bce2_neizvestnaya-planeta" $ExtFilter="TVSources",Неизвестная Планета
-#EXTGRP:Познавательные
-TVSources &id='neizvestnaya planeta_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/НТВ Хит.png" tvg-id="b304261c363d167f76201127d358bce2_ntv-xit" $ExtFilter="TVSources",НТВ Хит
-#EXTGRP:Фильмы
-TVSources &id='ntv khit_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Viasat nature HD.png" tvg-id="b304261c363d167f76201127d358bce2_viasat-nature" $ExtFilter="TVSources",Viasat Nature HD
-#EXTGRP:Познавательные
-TVSources &id='viasat nature hd_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Discovery Channel HD.png" tvg-id="b304261c363d167f76201127d358bce2_discovery-channel" $ExtFilter="TVSources",Discovery Channel HD
-#EXTGRP:Познавательные
-TVSources &id='discovery channel hd_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/НТВ Сериал.png" tvg-id="b304261c363d167f76201127d358bce2_ntv-serial" $ExtFilter="TVSources",НТВ Сериал
-#EXTGRP:Фильмы
-TVSources &id='ntv serial_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/КиноМеню HD.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Киномикс" $ExtFilter="TVSources",КиноМеню HD
-#EXTGRP:Фильмы
-TVSources &id='kinomenyu hd_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Кинопремьера.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Кинопремьера" $ExtFilter="TVSources",Кинопремьера FHD
-#EXTGRP:Фильмы
-TVSources &id='kinoprem`era fhd_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Нано.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Нано" $ExtFilter="TVSources",Нано HD
-#EXTGRP:Познавательные
-TVSources &id='nano hd_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Кино премиум HD.png" tvg-id="b304261c363d167f76201127d358bce2_domkino-premium" $ExtFilter="TVSources",Кино Премиум HD
-#EXTGRP:Фильмы
-TVSources &id='kino premium hd_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Первый канал HD2.png" tvg-id="b304261c363d167f76201127d358bce2_pervy-pl5" $ExtFilter="TVSources",Первый канал (+5)
-#EXTGRP:Федеральные
-TVSources &id='pervyj kanal (+5)_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/49 канал.png" tvg-id="b304261c363d167f76201127d358bce2_49kanal" $ExtFilter="TVSources",49 канал
-#EXTGRP:Новосибирск
-TVSources &id='49 kanal_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Наша сибирь.png" tvg-id="b304261c363d167f76201127d358bce2_nasha-sibir-4k" $ExtFilter="TVSources",Наша Сибирь 4K
-#EXTGRP:4K
-TVSources &id='nasha sibir` 4k_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/vip premiere.png" tvg-id="b304261c363d167f76201127d358bce2_vip-premiere" $ExtFilter="TVSources",VIP Premiere
-#EXTGRP:Фильмы
-TVSources &id='vip premiere_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/НТВ.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_НТВ" $ExtFilter="TVSources",НТВ
-#EXTGRP:Федеральные
-TVSources &id='ntv_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Дикая рыбалка HD.png" tvg-id="b304261c363d167f76201127d358bce2_dikaya-rybalka-hd" $ExtFilter="TVSources",Дикая рыбалка HD
-#EXTGRP:Мужские
-TVSources &id='dikaya rybalka hd_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/TERRA.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Terra" $ExtFilter="TVSources",TERRA
-#EXTGRP:Познавательные
-TVSources &id='terra_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Пятый канал.png" tvg-id="b304261c363d167f76201127d358bce2_5kanal-ru" $ExtFilter="TVSources",Пятый канал
-#EXTGRP:Федеральные
-TVSources &id='pyatyj kanal_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/History 2 HD .png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_History_2" $ExtFilter="TVSources",History 2 HD
-#EXTGRP:Познавательные
-TVSources &id='history 2 hd_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Nano HD.png" tvg-id="b304261c363d167f76201127d358bce2_nano-hd" $ExtFilter="TVSources",NANO HD
-#EXTGRP:Познавательные
-TVSources &id='nano hd_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Русский детектив.png" tvg-id="b304261c363d167f76201127d358bce2_russky-detektiv" $ExtFilter="TVSources",Русский детектив
-#EXTGRP:Фильмы
-TVSources &id='russkij detektiv_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Глазами туриста.png" tvg-id="b304261c363d167f76201127d358bce2_glazami-turista" $ExtFilter="TVSources",Глазами туриста
-#EXTGRP:Познавательные
-TVSources &id='glazami turista_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Movie Classic.png" tvg-id="b304261c363d167f76201127d358bce2_yes-movies-kids" $ExtFilter="TVSources",Movie Classic
-#EXTGRP:Фильмы
-TVSources &id='movie classic_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/VIP Serial.png" tvg-id="b304261c363d167f76201127d358bce2_vip-serial" $ExtFilter="TVSources",VIP Serial
-#EXTGRP:Фильмы
-TVSources &id='vip serial_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Кино ТВ.png" tvg-id="b304261c363d167f76201127d358bce2_kino-tv" $ExtFilter="TVSources",КИНО ТВ
-#EXTGRP:Фильмы
-TVSources &id='kino tv_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/vip comedy.png" tvg-id="b304261c363d167f76201127d358bce2_vip-comedy" $ExtFilter="TVSources",VIP Comedy HD
-#EXTGRP:Фильмы
-TVSources &id='vip comedy hd_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/vip comedy.png" tvg-id="b304261c363d167f76201127d358bce2_vip-comedy" $ExtFilter="TVSources",VIP Comedy
-#EXTGRP:Фильмы
-TVSources &id='vip comedy_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/TV1000 Русское кино.png" tvg-id="b304261c363d167f76201127d358bce2_tv1000-russkoe-kino" $ExtFilter="TVSources",TV1000 Русское кино
-#EXTGRP:Фильмы
-TVSources &id='tv1000 russkoe kino_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Ямал-регион.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Ямал-Регион" $ExtFilter="TVSources",Ямал 1
-#EXTGRP:Познавательные
-TVSources &id='yamal 1_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Футбол 1 HD.png" tvg-id="b304261c363d167f76201127d358bce2_match-football1" $ExtFilter="TVSources",Матч! Футбол 1 HD
-#EXTGRP:Матч
-TVSources &id='match! futbol 1 hd_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/HD Life.png" tvg-id="b304261c363d167f76201127d358bce2_hd-life" $ExtFilter="TVSources",HD Life
-#EXTGRP:Познавательные
-TVSources &id='hd life_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/TV1000 Action HD.png" tvg-id="b304261c363d167f76201127d358bce2_tv1000-action" $ExtFilter="TVSources",TV1000 Action HD
-#EXTGRP:Фильмы
-TVSources &id='tv1000 action hd_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Драйв.png" tvg-id="b304261c363d167f76201127d358bce2_drive" $ExtFilter="TVSources",Драйв
-#EXTGRP:Мужские
-TVSources &id='drajv_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/History HD.png" tvg-id="b304261c363d167f76201127d358bce2_history-ru" $ExtFilter="TVSources",History HD
-#EXTGRP:Познавательные
-TVSources &id='history hd_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Bridge TV Hits.png" tvg-id="b304261c363d167f76201127d358bce2_bridge-tv-fresh" $ExtFilter="TVSources",BRIDGE ФРЭШ HD
-#EXTGRP:Музыка
-TVSources &id='bridge fresh hd_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Живая планета.png" tvg-id="b304261c363d167f76201127d358bce2_zhivaya-planeta" $ExtFilter="TVSources",Живая планета
-#EXTGRP:Познавательные
-TVSources &id='zhivaya planeta_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Россия 24.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Россия_24" $ExtFilter="TVSources",Россия 24 HD
-#EXTGRP:Федеральные
-TVSources &id='rossiya 24 hd_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/TV1000 Action.png" tvg-id="b304261c363d167f76201127d358bce2_tv1000-action" $ExtFilter="TVSources",TV1000 Action
-#EXTGRP:Фильмы
-TVSources &id='tv1000 action_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/TV1000.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_TV1000" $ExtFilter="TVSources",TV1000
-#EXTGRP:Фильмы
-TVSources &id='tv1000_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/FOX HD.png" tvg-id="b304261c363d167f76201127d358bce2_fox" $ExtFilter="TVSources",FOX HD
-#EXTGRP:Фильмы
-TVSources &id='fox hd_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Setanta Sports 1.png" tvg-id="b304261c363d167f76201127d358bce2_setanta-sports" $ExtFilter="TVSources",Setanta Sports 1 HD
-#EXTGRP:Матч
-TVSources &id='setanta sports 1 hd_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/KHL.png" tvg-id="b304261c363d167f76201127d358bce2_kxl" $ExtFilter="TVSources",KHL
-#EXTGRP:Матч
-TVSources &id='khl_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Sony Channel.png" tvg-id="b304261c363d167f76201127d358bce2_sony-channel-ee" $ExtFilter="TVSources",Sony Channel
-#EXTGRP:Фильмы
-TVSources &id='sony channel_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Русский иллюзион.png" tvg-id="b304261c363d167f76201127d358bce2_russky-illuzion" $ExtFilter="TVSources",Русский иллюзион
-#EXTGRP:Фильмы
-TVSources &id='russkij illyuzion_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Киносерия.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_КИНОСЕРИЯ" $ExtFilter="TVSources",Киносерия
-#EXTGRP:КиноМИР
-TVSources &id='kinoseriya_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Премьер HD.png" tvg-id="b304261c363d167f76201127d358bce2_match-premier" $ExtFilter="TVSources",Матч! Премьер HD
-#EXTGRP:Матч
-TVSources &id='match! prem`er hd_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Viasat explore HD.png" tvg-id="b304261c363d167f76201127d358bce2_viasat-explore" $ExtFilter="TVSources",Viasat Explore HD
-#EXTGRP:Познавательные
-TVSources &id='viasat explore hd_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/KHL PRIME.png" tvg-id="b304261c363d167f76201127d358bce2_kxl-hd" $ExtFilter="TVSources",KHL Prime
-#EXTGRP:Матч
-TVSources &id='khl prime_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Русский бестселлер.png" tvg-id="b304261c363d167f76201127d358bce2_russky-bestseller" $ExtFilter="TVSources",Русский бестселлер
-#EXTGRP:Фильмы
-TVSources &id='russkij bestseller_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Премьер.png" tvg-id="b304261c363d167f76201127d358bce2_match-premier" $ExtFilter="TVSources",Матч! Премьер
-#EXTGRP:Матч
-TVSources &id='match! prem`er_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Sony Sci-Fi.png" tvg-id="b304261c363d167f76201127d358bce2_sony-scifi" $ExtFilter="TVSources",Sony Sci-Fi
-#EXTGRP:Фильмы
-TVSources &id='sony sci fi_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Ретро ТВ.png" tvg-id="b304261c363d167f76201127d358bce2_retro-tv" $ExtFilter="TVSources",Ретро ТВ
-#EXTGRP:Развлекательные
-TVSources &id='retro tv_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Живая природа.png" tvg-id="b304261c363d167f76201127d358bce2_zhivaya-priroda" $ExtFilter="TVSources",Живая природа
-#EXTGRP:Познавательные
-TVSources &id='zhivaya priroda_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="b304261c363d167f76201127d358bce2_rossia1" $ExtFilter="TVSources",Россия 1 HD
-#EXTGRP:Федеральные
-TVSources &id='rossiya 1 hd_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Paramount Comedy.png" tvg-id="b304261c363d167f76201127d358bce2_paramount-comedy" $ExtFilter="TVSources",Paramount Comedy
-#EXTGRP:Фильмы
-TVSources &id='paramount comedy_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Киносвидание.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Киносвидание" $ExtFilter="TVSources",Киносвидание
-#EXTGRP:КиноМИР
-TVSources &id='kinosvidanie_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/РЕН ТВ.png" tvg-id="b304261c363d167f76201127d358bce2_rentv" $ExtFilter="TVSources",РЕН ТВ
-#EXTGRP:Федеральные
-TVSources &id='ren tv_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Bridge TV Hits.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Bridge_HD" $ExtFilter="TVSources",BRIDGE Шлягер
-#EXTGRP:Музыка
-TVSources &id='bridge shlyager_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/СТВ РЕН ТВ (Беларусь).png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Рен_ТВ_(_2)" $ExtFilter="TVSources",РЕН ТВ (+7)
-#EXTGRP:Федеральные
-TVSources &id='ren tv (+7)_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Fox Life.png" tvg-id="b304261c363d167f76201127d358bce2_foxlife" $ExtFilter="TVSources",FOX Life
-#EXTGRP:Фильмы
-TVSources &id='fox life_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Диалоги о рыбалке.png" tvg-id="b304261c363d167f76201127d358bce2_dialogi-o-rybalke" $ExtFilter="TVSources",Диалоги о Рыбалке
-#EXTGRP:Мужские
-TVSources &id='dialogi o rybalke_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/НТВ HD.png" tvg-id="b304261c363d167f76201127d358bce2_ntv" $ExtFilter="TVSources",НТВ HD
-#EXTGRP:Федеральные
-TVSources &id='ntv hd_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/НТВ (+4).png" tvg-id="b304261c363d167f76201127d358bce2_ntv-pl4" $ExtFilter="TVSources",НТВ (+4)
-#EXTGRP:Новосибирск
-TVSources &id='ntv (+4)_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/ID Investigation Discovery.png" tvg-id="b304261c363d167f76201127d358bce2_id-xtra-eu" $ExtFilter="TVSources",ID Investigation Discovery
-#EXTGRP:Познавательные
-TVSources &id='id investigation discovery_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Star Cinema HD.png" tvg-id="b304261c363d167f76201127d358bce2_cinema" $ExtFilter="TVSources",Cinema Космос ТВ
-#EXTGRP:Фильмы
-TVSources &id='cinema kosmos tv_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Cinema.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Cinema" $ExtFilter="TVSources",Cinema
-#EXTGRP:Фильмы
-TVSources &id='cinema_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Планета.png" tvg-id="b304261c363d167f76201127d358bce2_match-planeta" $ExtFilter="TVSources",МАТЧ! Планета
-#EXTGRP:Матч
-TVSources &id='match! planeta_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Zee TV.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Zee_TV" $ExtFilter="TVSources",Zee TV HD
-#EXTGRP:Индия
-TVSources &id='zee tv hd_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/СТС Kids.png" tvg-id="b304261c363d167f76201127d358bce2_sts-pl4" $ExtFilter="TVSources",СТС (+4)
-#EXTGRP:Новосибирск
-TVSources &id='sts (+4)_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Amedia Premium HD.png" tvg-id="b304261c363d167f76201127d358bce2_amedia-premium" $ExtFilter="TVSources",Amedia Premium
-#EXTGRP:Фильмы
-TVSources &id='amedia premium_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Звезда.png" tvg-id="b304261c363d167f76201127d358bce2_zvezda-pl2" $ExtFilter="TVSources",Звезда (+2)
-#EXTGRP:Федеральные
-TVSources &id='zvezda (+2)_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/DocuBox.png" tvg-id="b304261c363d167f76201127d358bce2_docubox-hd" $ExtFilter="TVSources",DocuBox HD
-#EXTGRP:Познавательные
-TVSources &id='docubox hd_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/.red.png" tvg-id="b304261c363d167f76201127d358bce2_sony-tv" $ExtFilter="TVSources",.red
-#EXTGRP:Фильмы
-TVSources &id='.red_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Россия К.png" tvg-id="b304261c363d167f76201127d358bce2_kultura-pl4" $ExtFilter="TVSources",Россия К (+4)
-#EXTGRP:Новосибирск
-TVSources &id='rossiya k (+4)_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Amedia Hit.png" tvg-id="b304261c363d167f76201127d358bce2_amedia-hit" $ExtFilter="TVSources",Amedia Hit HD
-#EXTGRP:Фильмы
-TVSources &id='amedia hit hd_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Индийское кино.png" tvg-id="b304261c363d167f76201127d358bce2_indiyskoe-kino" $ExtFilter="TVSources",Индийское кино
-#EXTGRP:КиноМИР
-TVSources &id='indijskoe kino_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Охотник и рыболов.png" tvg-id="b304261c363d167f76201127d358bce2_oxotnik-i-rybolov" $ExtFilter="TVSources",Охотник и рыболов
-#EXTGRP:Мужские
-TVSources &id='okhotnik i rybolov_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Galaxy.png" tvg-id="b304261c363d167f76201127d358bce2_galaxy-tv" $ExtFilter="TVSources",Galaxy TV
-#EXTGRP:Познавательные
-TVSources &id='galaxy tv_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/365 Дней.png" tvg-id="b304261c363d167f76201127d358bce2_365-dnej" $ExtFilter="TVSources",365 дней
-#EXTGRP:Познавательные
-TVSources &id='365 dnej_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Весёлая карусель.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Карусель" $ExtFilter="TVSources",Карусель (+4)
-#EXTGRP:Новосибирск
-TVSources &id='karusel` (+4)_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Amedia Hit.png" tvg-id="b304261c363d167f76201127d358bce2_amedia-hit" $ExtFilter="TVSources",Amedia Hit
-#EXTGRP:Фильмы
-TVSources &id='amedia hit_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/A1.png" tvg-id="b304261c363d167f76201127d358bce2_amedia1" $ExtFilter="TVSources",A1
-#EXTGRP:Фильмы
-TVSources &id='a1_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Звезда.png" tvg-id="b304261c363d167f76201127d358bce2_zvezda-pl4" $ExtFilter="TVSources",Звезда (+4)
-#EXTGRP:Новосибирск
-TVSources &id='zvezda (+4)_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/TV XXI.png" tvg-id="b304261c363d167f76201127d358bce2_tvxxi" $ExtFilter="TVSources",TV XXI
-#EXTGRP:Фильмы
-TVSources &id='tv xxi_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Canal  Sport.png" tvg-id="b304261c363d167f76201127d358bce2_canal-3" $ExtFilter="TVSources",Canal 3 HD
-#EXTGRP:Фильмы
-TVSources &id='canal 3 hd_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Киносвидание.png" tvg-id="b304261c363d167f76201127d358bce2_kinosvidanie" $ExtFilter="TVSources",Киносвидание HD
-#EXTGRP:КиноМИР
-TVSources &id='kinosvidanie hd_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Киномикс.png" tvg-id="b304261c363d167f76201127d358bce2_kinomiks" $ExtFilter="TVSources",Киномикс HD
-#EXTGRP:КиноМИР
-TVSources &id='kinomiks hd_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Viasat Sport.png" tvg-id="b304261c363d167f76201127d358bce2_viasat-sport" $ExtFilter="TVSources",Viasat Sport
-#EXTGRP:Матч
-TVSources &id='viasat sport_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Соловьёвlive.png" tvg-id="b304261c363d167f76201127d358bce2_solovjinypomiot" $ExtFilter="TVSources",Соловьёв Live
-#EXTGRP:Общие
-TVSources &id='solov`yov live_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Игра.png" tvg-id="b304261c363d167f76201127d358bce2_match-igra" $ExtFilter="TVSources",Матч! Игра
-#EXTGRP:Матч
-TVSources &id='match! igra_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Zee TV.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Zee_TV" $ExtFilter="TVSources",Zee TV
-#EXTGRP:Индия
-TVSources &id='zee tv_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/ТВЦ.png" tvg-id="b304261c363d167f76201127d358bce2_tvcentr" $ExtFilter="TVSources",ТВЦ
-#EXTGRP:Федеральные
-TVSources &id='tvcz_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/ТВ-3 HD.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_ТВ-3" $ExtFilter="TVSources",ТВ-3 (+7)
-#EXTGRP:Федеральные
-TVSources &id='tv 3 (+7)_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Bolt HD.png" tvg-id="b304261c363d167f76201127d358bce2_bolt" $ExtFilter="TVSources",BOLT HD
-#EXTGRP:Фильмы
-TVSources &id='bolt hd_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="b304261c363d167f76201127d358bce2_rossia1-pl8" $ExtFilter="TVSources",Россия 1 (+8)
-#EXTGRP:Федеральные
-TVSources &id='rossiya 1 (+8)_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Еврокино.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Еврокино" $ExtFilter="TVSources",Еврокино
-#EXTGRP:Фильмы
-TVSources &id='evrokino_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Eurosport 2 HD.png" tvg-id="b304261c363d167f76201127d358bce2_eurosport2" $ExtFilter="TVSources",Eurosport 2 HD
-#EXTGRP:Матч
-TVSources &id='eurosport 2 hd_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/ZooПарк.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Zooпарк" $ExtFilter="TVSources",Zooпарк
-#EXTGRP:Познавательные
-TVSources &id='zoopark_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Россия 24.png" tvg-id="b304261c363d167f76201127d358bce2_rossia-24" $ExtFilter="TVSources",Россия 24
-#EXTGRP:Федеральные
-TVSources &id='rossiya 24_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Первый канал HD2.png" tvg-id="b304261c363d167f76201127d358bce2_pervy-pl9" $ExtFilter="TVSources",Первый канал (+9)
-#EXTGRP:Федеральные
-TVSources &id='pervyj kanal (+9)_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Звезда.png" tvg-id="b304261c363d167f76201127d358bce2_zvezda" $ExtFilter="TVSources",Звезда HD
-#EXTGRP:Федеральные
-TVSources &id='zvezda hd_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Боец.png" tvg-id="b304261c363d167f76201127d358bce2_match-boets" $ExtFilter="TVSources",Матч! Боец
-#EXTGRP:Матч
-TVSources &id='match! boecz_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Время.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_ВРЕМЯ" $ExtFilter="TVSources",Время
-#EXTGRP:Познавательные
-TVSources &id='vremya_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Наше новое кино.png" tvg-id="b304261c363d167f76201127d358bce2_nashe-novoe-kino" $ExtFilter="TVSources",Наше новое кино
-#EXTGRP:КиноМИР
-TVSources &id='nashe novoe kino_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Дикая рыбалка HD.png" tvg-id="b304261c363d167f76201127d358bce2_rybalka-i-oxota" $ExtFilter="TVSources",Рыбалка и охота
-#EXTGRP:Мужские
-TVSources &id='rybalka i okhota_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="b304261c363d167f76201127d358bce2_rossia1-pl2" $ExtFilter="TVSources",Россия 1 (+2)
-#EXTGRP:Федеральные
-TVSources &id='rossiya 1 (+2)_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="b304261c363d167f76201127d358bce2_rossia1-pl1" $ExtFilter="TVSources",Россия 1 (+1)
-#EXTGRP:Федеральные
-TVSources &id='rossiya 1 (+1)_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Дикий.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Дикий" $ExtFilter="TVSources",Дикий
-#EXTGRP:Познавательные
-TVSources &id='dikij_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Охота и Рыбалка.png" tvg-id="b304261c363d167f76201127d358bce2_oxota-i-rybalka" $ExtFilter="TVSources",Охота и рыбалка
-#EXTGRP:Мужские
-TVSources &id='okhota i rybalka_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Eurosport 1.png" tvg-id="b304261c363d167f76201127d358bce2_eurosport1" $ExtFilter="TVSources",Eurosport 1
-#EXTGRP:Матч
-TVSources &id='eurosport 1_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="b304261c363d167f76201127d358bce2_rossia1-pl4" $ExtFilter="TVSources",Россия 1 (+4)
-#EXTGRP:Новосибирск
-TVSources &id='rossiya 1 (+4)_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/HDL.png" tvg-id="b304261c363d167f76201127d358bce2_hd-life" $ExtFilter="TVSources",HDL
-#EXTGRP:Познавательные
-TVSources &id='hdl_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Первый канал HD2.png" tvg-id="b304261c363d167f76201127d358bce2_pervy-pl4" $ExtFilter="TVSources",Первый канал (+4)
-#EXTGRP:Новосибирск
-TVSources &id='pervyj kanal (+4)_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/BRIDGE TV CLASSIC.png" tvg-id="b304261c363d167f76201127d358bce2_bridge-tv-classic" $ExtFilter="TVSources",Bridge TV Classic
-#EXTGRP:Музыка
-TVSources &id='bridge tv classic_00'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Первый канал HD2.png" tvg-id="b304261c363d167f76201127d358bce2_pervy-pl6" $ExtFilter="TVSources",Первый канал (+6)
-#EXTGRP:Федеральные
-TVSources &id='pervyj kanal (+6)_d0'
-#EXTINF:-1 tvg-logo="../Channel/Logo/Travel+ adventure.png" tvg-id="b304261c363d167f76201127d358bce2_travel-adventure" $ExtFilter="TVSources",Travel+ Adventure
-#EXTGRP:Познавательные
-TVSources &id='travel+ adventure_00'
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/983.png" tvg-id="b304261c363d167f76201127d358bce2_pervy" $ExtFilter="Камеры",Первый HD
 #EXTGRP:🇷🇺 Эфирные
 https://cdn10.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
@@ -3029,7 +2126,7 @@ https://livetv.mylifeisgood.ml/channels/eurosport1ru
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4313.png" tvg-id="b304261c363d167f76201127d358bce2_eurosport2" $ExtFilter="Камеры",Eurosport 2 HD
 #EXTGRP:⛹🏿‍ Спортивные
 https://livetv.mylifeisgood.ml/channels/eurosport2
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2004.png" tvg-id="b304261c363d167f76201127d358bce2_viasat-sport" $ExtFilter="Камеры",Viasat Sport HD
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2004.png" tvg-id="b304261c363d167f76201127d358bce2_viasat-sport" $ExtFilter="Камеры" is-favorite="1",Viasat Sport HD
 #EXTGRP:⛹🏿‍ Спортивные
 http://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://antifriztv.com/storage/images/pack_logos/51de7a32b761165b4e7ac15866b2af76.png" tvg-id="b304261c363d167f76201127d358bce2_sportivny" $ExtFilter="Камеры",Спортивный HD
@@ -3656,3 +2753,1461 @@ https://s34351.cdn.ngenix.net/hls/CH_R14_OTT_DV_YKT_YKT/variant.m3u8
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10190/logo_256_1660810138.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Ямал-Регион" $ExtFilter="Камеры",Ямал-Регион
 #EXTGRP:WINK+Aрхив
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/.black.png" tvg-id="b304261c363d167f76201127d358bce2_sony-turbo" $ExtFilter="TVSources",.black
+#EXTGRP:Познавательные
+TVSources &id='.black_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Домашний-ТВК6.png" tvg-id="b304261c363d167f76201127d358bce2_domashny" $ExtFilter="TVSources",Домашний HD
+#EXTGRP:Федеральные
+TVSources &id='domashnij hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/360° HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_360TV" $ExtFilter="TVSources",360° HD
+#EXTGRP:Познавательные
+TVSources &id='360176 hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Мир сериала.png" tvg-id="b304261c363d167f76201127d358bce2_mir-seriala" $ExtFilter="TVSources",Мир сериала
+#EXTGRP:Фильмы
+TVSources &id='mir seriala_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Viasat explore.png" tvg-id="b304261c363d167f76201127d358bce2_viasat-explore" $ExtFilter="TVSources",Viasat Explore
+#EXTGRP:Познавательные
+TVSources &id='viasat explore_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Пятый канал.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Пятый канал (+4)" $ExtFilter="TVSources",Пятый канал (+4)
+#EXTGRP:Новосибирск
+TVSources &id='pyatyj kanal (+4)_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Мужское кино.png" tvg-id="b304261c363d167f76201127d358bce2_muzhskoe-kino" $ExtFilter="TVSources",Мужское кино
+#EXTGRP:КиноМИР
+TVSources &id='muzhskoe kino_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Первый Театральный Канал.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Первый Театральный Канал" $ExtFilter="TVSources",Первый Театральный Канал
+#EXTGRP:Развлекательные
+TVSources &id='pervyj teatral`nyj kanal_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Кинопоказ.png" tvg-id="b304261c363d167f76201127d358bce2_kinopokaz" $ExtFilter="TVSources",Кинопоказ
+#EXTGRP:Фильмы
+TVSources &id='kinopokaz_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Россия К.png" tvg-id="b304261c363d167f76201127d358bce2_kultura-pl2" $ExtFilter="TVSources",Россия К (+2)
+#EXTGRP:Федеральные
+TVSources &id='rossiya k (+2)_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Звезда.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Звезда" $ExtFilter="TVSources",Звезда
+#EXTGRP:Федеральные
+TVSources &id='zvezda_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Дом кино премиум HD.png" tvg-id="b304261c363d167f76201127d358bce2_domkino-premium" $ExtFilter="TVSources",Дом кино премиум HD
+#EXTGRP:Фильмы
+TVSources &id='dom kino premium hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Music Box Gold.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Music Box Gold" $ExtFilter="TVSources",MUSIC BOX GOLD
+#EXTGRP:Музыка
+TVSources &id='music box gold_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/ТВЦ.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_ТВ Центр (+2)" $ExtFilter="TVSources",ТВЦ (+4)
+#EXTGRP:Новосибирск
+TVSources &id='tvcz (+4)_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Комедийное.png" tvg-id="b304261c363d167f76201127d358bce2_komedijnoe" $ExtFilter="TVSources",Комедийное
+#EXTGRP:Фильмы
+TVSources &id='komedijnoe_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="b304261c363d167f76201127d358bce2_rossia1-pl6" $ExtFilter="TVSources",Россия 1 (+6)
+#EXTGRP:Федеральные
+TVSources &id='rossiya 1 (+6)_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/СТС HD.png" tvg-id="b304261c363d167f76201127d358bce2_sts" $ExtFilter="TVSources",СТС HD
+#EXTGRP:Федеральные
+TVSources &id='sts hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/НТВ (+2).png" tvg-id="b304261c363d167f76201127d358bce2_ntv-pl2" $ExtFilter="TVSources",НТВ (+2)
+#EXTGRP:Федеральные
+TVSources &id='ntv (+2)_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Bollywood HD.png" tvg-id="b304261c363d167f76201127d358bce2_bollywood-hd" $ExtFilter="TVSources",Bollywood HD
+#EXTGRP:Индия
+TVSources &id='bollywood hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/FOX.png" tvg-id="b304261c363d167f76201127d358bce2_fox" $ExtFilter="TVSources",FOX
+#EXTGRP:Фильмы
+TVSources &id='fox_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/В мире животных.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_В мире животных" $ExtFilter="TVSources",В мире животных
+#EXTGRP:Познавательные
+TVSources &id='v mire zhivotnykh_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Дом кино.png" tvg-id="b304261c363d167f76201127d358bce2_domkino" $ExtFilter="TVSources",Дом кино
+#EXTGRP:Фильмы
+TVSources &id='dom kino_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Ultra HD Cinema.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Ultra_HD_Cinema" $ExtFilter="TVSources",Ultra HD Cinema 4k
+#EXTGRP:Фильмы
+TVSources &id='ultra hd cinema 4k_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="b304261c363d167f76201127d358bce2_rossia1-pl5" $ExtFilter="TVSources",Россия 1 (+5)
+#EXTGRP:Федеральные
+TVSources &id='rossiya 1 (+5)_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Viasat nature-history HD.png" tvg-id="b304261c363d167f76201127d358bce2_viasat-nature-history-hd" $ExtFilter="TVSources",Viasat Nature/History HD
+#EXTGRP:Познавательные
+TVSources &id='viasat naturehistory hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Bollywood HD.png" tvg-id="b304261c363d167f76201127d358bce2_bollywood-hd" $ExtFilter="TVSources",Bollywood
+#EXTGRP:Индия
+TVSources &id='bollywood_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/НТВ Стиль.png" tvg-id="b304261c363d167f76201127d358bce2_ntv-style" $ExtFilter="TVSources",НТВ Стиль
+#EXTGRP:Познавательные
+TVSources &id='ntv stil`_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/СТС Мир.png" tvg-id="b304261c363d167f76201127d358bce2_sts-int" $ExtFilter="TVSources",СТС Int
+#EXTGRP:Федеральные
+TVSources &id='sts int_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Большая Азия.png" tvg-id="b304261c363d167f76201127d358bce2_bolshaya-azia" $ExtFilter="TVSources",Большая Азия
+#EXTGRP:Познавательные
+TVSources &id='bol`shaya aziya_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Кинохит.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Кинохит" $ExtFilter="TVSources",Кинохит
+#EXTGRP:КиноМИР
+TVSources &id='kinokhit_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Министерство идей.png" tvg-id="b304261c363d167f76201127d358bce2_ministerstvo-idey" $ExtFilter="TVSources",Министерство идей
+#EXTGRP:Познавательные
+TVSources &id='ministerstvo idej_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Киносерия.png" tvg-id="b304261c363d167f76201127d358bce2_kinoseria" $ExtFilter="TVSources",Киносерия HD
+#EXTGRP:КиноМИР
+TVSources &id='kinoseriya hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Hollywood.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Hollywood" $ExtFilter="TVSources",Hollywood
+#EXTGRP:Фильмы
+TVSources &id='hollywood_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Россия 1.png" tvg-id="b304261c363d167f76201127d358bce2_rossia1" $ExtFilter="TVSources",Россия 1
+#EXTGRP:Федеральные
+TVSources &id='rossiya 1_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Охотник и рыболов HD.png" tvg-id="b304261c363d167f76201127d358bce2_oxotnik-i-rybolov-hd" $ExtFilter="TVSources",Охотник и рыболов HD
+#EXTGRP:Мужские
+TVSources &id='okhotnik i rybolov hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/A2.png" tvg-id="b304261c363d167f76201127d358bce2_amedia2" $ExtFilter="TVSources",A2
+#EXTGRP:Фильмы
+TVSources &id='a2_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Открытый мир.png" tvg-id="b304261c363d167f76201127d358bce2_otkryty-mir" $ExtFilter="TVSources",Открытый мир
+#EXTGRP:Познавательные
+TVSources &id='otkrytyj mir_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/История.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_История" $ExtFilter="TVSources",История
+#EXTGRP:Познавательные
+TVSources &id='istoriya_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Настоящее время.png" tvg-id="b304261c363d167f76201127d358bce2_nastoyaschee-vremia" $ExtFilter="TVSources",Настоящее Время
+#EXTGRP:Познавательные
+TVSources &id='nastoyashhee vremya_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Домашний-ТВК6.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Домашний (+7)" $ExtFilter="TVSources",Домашний (+7)
+#EXTGRP:Федеральные
+TVSources &id='domashnij (+7)_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Наше Крутое.png" tvg-id="b304261c363d167f76201127d358bce2_nashesd" $ExtFilter="TVSources",Наше Крутое
+#EXTGRP:Фильмы
+TVSources &id='nashe krutoe_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Setanta Sports 2.png" tvg-id="b304261c363d167f76201127d358bce2_setanta-sports-plus" $ExtFilter="TVSources",Setanta Sports 2 HD
+#EXTGRP:Матч
+TVSources &id='setanta sports 2 hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/ТНТ Music.png" tvg-id="b304261c363d167f76201127d358bce2_tnt-pl2" $ExtFilter="TVSources",ТНТ (+1)
+#EXTGRP:Федеральные
+TVSources &id='tnt (+1)_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Ля минор.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Ля минор" $ExtFilter="TVSources",Ля минор
+#EXTGRP:Музыка
+TVSources &id='lya minor_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/НТВ Право.png" tvg-id="b304261c363d167f76201127d358bce2_ntv-pravo" $ExtFilter="TVSources",НТВ Право
+#EXTGRP:Познавательные
+TVSources &id='ntv pravo_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Discovery Science.png" tvg-id="b304261c363d167f76201127d358bce2_discovery-science" $ExtFilter="TVSources",Discovery Science
+#EXTGRP:Познавательные
+TVSources &id='discovery science_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/DocuBox.png" tvg-id="b304261c363d167f76201127d358bce2_docubox-hd" $ExtFilter="TVSources",DocuBox
+#EXTGRP:Познавательные
+TVSources &id='docubox_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Trash.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Trash HD PREMIUM+" $ExtFilter="TVSources",Trash HD
+#EXTGRP:Фильмы
+TVSources &id='trash hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/СТВ РЕН ТВ (Беларусь).png" tvg-id="b304261c363d167f76201127d358bce2_rentv-int" $ExtFilter="TVSources",Рен ТВ International
+#EXTGRP:Федеральные
+TVSources &id='ren tv international_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/НТВ (+7).png" tvg-id="b304261c363d167f76201127d358bce2_ntv-pl7" $ExtFilter="TVSources",НТВ (+7)
+#EXTGRP:Федеральные
+TVSources &id='ntv (+7)_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/ТВ-3 HD.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_ТВ-3" $ExtFilter="TVSources",ТВ-3 (+4)
+#EXTGRP:Новосибирск
+TVSources &id='tv 3 (+4)_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Наша сибирь.png" tvg-id="b304261c363d167f76201127d358bce2_nasha-sibir" $ExtFilter="TVSources",Наша Сибирь HD
+#EXTGRP:Познавательные
+TVSources &id='nasha sibir` hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/СТВ РЕН ТВ (Беларусь).png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_РЕН ТВ (+2)" $ExtFilter="TVSources",РЕН ТВ (+2)
+#EXTGRP:Федеральные
+TVSources &id='ren tv (+2)_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Кино ТВ HD.png" tvg-id="b304261c363d167f76201127d358bce2_kino-tv" $ExtFilter="TVSources",КИНО ТВ HD
+#EXTGRP:Фильмы
+TVSources &id='kino tv hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Советское кино.png" tvg-id="b304261c363d167f76201127d358bce2_sovkino" $ExtFilter="TVSources",Советское кино
+#EXTGRP:Фильмы
+TVSources &id='sovetskoe kino_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/2x2.png" tvg-id="b304261c363d167f76201127d358bce2_2na2-pl4" $ExtFilter="TVSources",2x2 (+4)
+#EXTGRP:Новосибирск
+TVSources &id='2x2 (+4)_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Победа.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Победа" $ExtFilter="TVSources",Победа
+#EXTGRP:Федеральные
+TVSources &id='pobeda_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Шокирующее.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Шокирующее" $ExtFilter="TVSources",Шокирующее
+#EXTGRP:Фильмы
+TVSources &id='shokiruyushhee_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Звезда.png" tvg-id="b304261c363d167f76201127d358bce2_zvezda-pl7" $ExtFilter="TVSources",Звезда (+7)
+#EXTGRP:Федеральные
+TVSources &id='zvezda (+7)_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Первый канал.png" tvg-id="b304261c363d167f76201127d358bce2_pervy" $ExtFilter="TVSources",Первый канал
+#EXTGRP:Федеральные
+TVSources &id='pervyj kanal_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Домашний-ТВК6.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Домашний (+2)" $ExtFilter="TVSources",Домашний (+2)
+#EXTGRP:Федеральные
+TVSources &id='domashnij (+2)_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Остросюжетное HD.png" tvg-id="b304261c363d167f76201127d358bce2_ostrosiuzhetnoe-hd" $ExtFilter="TVSources",Остросюжетное HD
+#EXTGRP:Фильмы
+TVSources &id='ostrosyuzhetnoe hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Animal Planet.png" tvg-id="b304261c363d167f76201127d358bce2_animal-planet-eu" $ExtFilter="TVSources",Animal Planet
+#EXTGRP:Познавательные
+TVSources &id='animal planet_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Первый канал HD2.png" tvg-id="b304261c363d167f76201127d358bce2_pervy-pl2" $ExtFilter="TVSources",Первый канал (+2)
+#EXTGRP:Федеральные
+TVSources &id='pervyj kanal (+2)_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Киномикс.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Киномикс" $ExtFilter="TVSources",Киномикс
+#EXTGRP:КиноМИР
+TVSources &id='kinomiks_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/RTG.png" tvg-id="b304261c363d167f76201127d358bce2_rtg-tv" $ExtFilter="TVSources",RTG
+#EXTGRP:Познавательные
+TVSources &id='rtg_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/History.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_History" $ExtFilter="TVSources",History
+#EXTGRP:Познавательные
+TVSources &id='history_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Eurosport 1 HD.png" tvg-id="b304261c363d167f76201127d358bce2_eurosport1" $ExtFilter="TVSources",Eurosport 1 HD
+#EXTGRP:Матч
+TVSources &id='eurosport 1 hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Первый канал HD2.png" tvg-id="b304261c363d167f76201127d358bce2_pervy-pl1" $ExtFilter="TVSources",Первый канал (+1)
+#EXTGRP:Федеральные
+TVSources &id='pervyj kanal (+1)_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Первый канал HD2.png" tvg-id="b304261c363d167f76201127d358bce2_pervy-pl3" $ExtFilter="TVSources",Первый канал (+3)
+#EXTGRP:Федеральные
+TVSources &id='pervyj kanal (+3)_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Бобёр.png" tvg-id="b304261c363d167f76201127d358bce2_bobior" $ExtFilter="TVSources",Бобёр
+#EXTGRP:Познавательные
+TVSources &id='bobyor_d0'
+#EXTINF:-1 tvg-logo="https://picon.ml/muvitv.png" tvg-id="b304261c363d167f76201127d358bce2_muvitv" $ExtFilter="TVSources",Муви ТВ
+#EXTGRP:Фильмы
+TVSources &id='muvi tv_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Домашний-ТВК6.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Домашний (+4)" $ExtFilter="TVSources",Домашний (+4)
+#EXTGRP:Новосибирск
+TVSources &id='domashnij (+4)_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Первый канал HD2.png" tvg-id="b304261c363d167f76201127d358bce2_pervy-mn1" $ExtFilter="TVSources",Первый канал (-1)
+#EXTGRP:Федеральные
+TVSources &id='pervyj kanal ( 1)_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Театр.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Театр" $ExtFilter="TVSources",Театр
+#EXTGRP:Развлекательные
+TVSources &id='teatr_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/National Geographic HD.png" tvg-id="b304261c363d167f76201127d358bce2_national-geographic" $ExtFilter="TVSources",National Geographic HD
+#EXTGRP:Познавательные
+TVSources &id='national geographic hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/TLC HD.png" tvg-id="b304261c363d167f76201127d358bce2_tlc" $ExtFilter="TVSources",TLC HD
+#EXTGRP:Познавательные
+TVSources &id='tlc hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Комедийное.png" tvg-id="b304261c363d167f76201127d358bce2_komedijnoe-hd" $ExtFilter="TVSources",Комедийное HD
+#EXTGRP:Фильмы
+TVSources &id='komedijnoe hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Наш детектив.png" tvg-id="b304261c363d167f76201127d358bce2_nash-dom" $ExtFilter="TVSources",Наш дом
+#EXTGRP:Познавательные
+TVSources &id='nash dom_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Russian Extreme Ultra.png" tvg-id="b304261c363d167f76201127d358bce2_russian-extreme-uhd" $ExtFilter="TVSources",Russian Extreme Ultra HD
+#EXTGRP:4K
+TVSources &id='russian extreme ultra hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Bridge HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Bridge TV Hits" $ExtFilter="TVSources",BRIDGE HITS HD
+#EXTGRP:Музыка
+TVSources &id='bridge hits hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Первый Космический.png" tvg-id="b304261c363d167f76201127d358bce2_eureka-hd" $ExtFilter="TVSources",Первый Космический HD
+#EXTGRP:Познавательные
+TVSources &id='pervyj kosmicheskij hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Кинокомедия.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Кинокомедия" $ExtFilter="TVSources",Кинокомедия
+#EXTGRP:КиноМИР
+TVSources &id='kinokomediya_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Viasat history.png" tvg-id="b304261c363d167f76201127d358bce2_viasat-history" $ExtFilter="TVSources",Viasat History
+#EXTGRP:Познавательные
+TVSources &id='viasat history_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="b304261c363d167f76201127d358bce2_rossia1-pl7" $ExtFilter="TVSources",Россия 1 (+7)
+#EXTGRP:Федеральные
+TVSources &id='rossiya 1 (+7)_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Киносемья.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Киносемья" $ExtFilter="TVSources",Киносемья
+#EXTGRP:КиноМИР
+TVSources &id='kinosem`ya_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Zoo TV.png" tvg-id="b304261c363d167f76201127d358bce2_zootv" $ExtFilter="TVSources",Zoo TV
+#EXTGRP:Познавательные
+TVSources &id='zoo tv_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/DTX.png" tvg-id="b304261c363d167f76201127d358bce2_dtx" $ExtFilter="TVSources",DTX
+#EXTGRP:Познавательные
+TVSources &id='dtx_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/ТНТ Music.png" tvg-id="b304261c363d167f76201127d358bce2_tnt-music" $ExtFilter="TVSources",ТНТ MUSIC HD
+#EXTGRP:Музыка
+TVSources &id='tnt music hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/ТВ-3.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_ТВ-3" $ExtFilter="TVSources",ТВ-3
+#EXTGRP:Федеральные
+TVSources &id='tv 3_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Animal Planet HD.png" tvg-id="b304261c363d167f76201127d358bce2_animal-planet-eu" $ExtFilter="TVSources",Animal Planet HD
+#EXTGRP:Познавательные
+TVSources &id='animal planet hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/HD Media.png" tvg-id="b304261c363d167f76201127d358bce2_hd-media" $ExtFilter="TVSources",HD Media
+#EXTGRP:Познавательные
+TVSources &id='hd media_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Nat Geo Wild.png" tvg-id="b304261c363d167f76201127d358bce2_nat-geo-wild" $ExtFilter="TVSources",Nat Geo Wild
+#EXTGRP:Познавательные
+TVSources &id='nat geo wild_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/8 Канал (Новосибирск).png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_8 канал (Новосибирск)" $ExtFilter="TVSources",8 канал (Новосибирск)
+#EXTGRP:Новосибирск
+TVSources &id='8 kanal (novosibirsk)_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Viasat history HD.png" tvg-id="b304261c363d167f76201127d358bce2_viasat-history" $ExtFilter="TVSources",Viasat History HD
+#EXTGRP:Познавательные
+TVSources &id='viasat history hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/8 Канал.png" tvg-id="b304261c363d167f76201127d358bce2_8kanal-ru" $ExtFilter="TVSources",8 канал
+#EXTGRP:Новосибирск
+TVSources &id='8 kanal_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Киносат.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Киносат" $ExtFilter="TVSources",КиноСат
+#EXTGRP:Фильмы
+TVSources &id='kinosat_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Discovery Science HD.png" tvg-id="b304261c363d167f76201127d358bce2_discovery-science" $ExtFilter="TVSources",Discovery Science HD
+#EXTGRP:Познавательные
+TVSources &id='discovery science hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Киномикс.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_КиноСат" $ExtFilter="TVSources",Киноман
+#EXTGRP:Фильмы
+TVSources &id='kinoman_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Шокирующее.png" tvg-id="b304261c363d167f76201127d358bce2_shokiruyushchee-hd" $ExtFilter="TVSources",Шокирующее HD
+#EXTGRP:Фильмы
+TVSources &id='shokiruyushhee hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/BRIDGE TV DELUXE.png" tvg-id="b304261c363d167f76201127d358bce2_bridge-hd" $ExtFilter="TVSources",Bridge TV Deluxe
+#EXTGRP:Музыка
+TVSources &id='bridge tv deluxe_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/СТС.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_СТС" $ExtFilter="TVSources",СТС
+#EXTGRP:Федеральные
+TVSources &id='sts_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Дом кино премиум HD.png" tvg-id="b304261c363d167f76201127d358bce2_domkino-premium" $ExtFilter="TVSources",Дом кино премиум
+#EXTGRP:Фильмы
+TVSources &id='dom kino premium_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/ОТС.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_ОТС" $ExtFilter="TVSources",ОТС
+#EXTGRP:Новосибирск
+TVSources &id='ots_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Da Vinci learning.png" tvg-id="b304261c363d167f76201127d358bce2_da-vinci" $ExtFilter="TVSources",Da Vinci Learning
+#EXTGRP:Познавательные
+TVSources &id='da vinci learning_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/RU TV HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_RU TV" $ExtFilter="TVSources",RU TV HD
+#EXTGRP:Музыка
+TVSources &id='ru tv hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Родное кино.png" tvg-id="b304261c363d167f76201127d358bce2_rodnoe-kino" $ExtFilter="TVSources",Родное кино
+#EXTGRP:КиноМИР
+TVSources &id='rodnoe kino_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Советские мультфильмы.png" tvg-id="b304261c363d167f76201127d358bce2_sovmultf" $ExtFilter="TVSources",Советские Мультфильмы
+#EXTGRP:Фильмы
+TVSources &id='sovetskie mul`tfil`my_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Пятница! HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Пятница! (+4)" $ExtFilter="TVSources",Пятница! (+4)
+#EXTGRP:Новосибирск
+TVSources &id='pyatnicza! (+4)_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Страна.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Матч! Страна" $ExtFilter="TVSources",Матч! Страна HD
+#EXTGRP:Матч
+TVSources &id='match! strana hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/CGTN Русский.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_CGTN Русский" $ExtFilter="TVSources",CGTN Русский
+#EXTGRP:Фильмы
+TVSources &id='cgtn russkij_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Россия 1 (-1)" $ExtFilter="TVSources",Россия 1 (-1)
+#EXTGRP:Федеральные
+TVSources &id='rossiya 1 ( 1)_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Пятый канал.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Пятый канал (+7)" $ExtFilter="TVSources",Пятый канал (+7)
+#EXTGRP:Федеральные
+TVSources &id='pyatyj kanal (+7)_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/ТВЦ.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_ТВ Центр (+2)" $ExtFilter="TVSources",ТВЦ (+7)
+#EXTGRP:Федеральные
+TVSources &id='tvcz (+7)_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Морской.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Морской" $ExtFilter="TVSources",Морской
+#EXTGRP:Познавательные
+TVSources &id='morskoj_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Paramount Channel.png" tvg-id="b304261c363d167f76201127d358bce2_paramount-channel" $ExtFilter="TVSources",Paramount Channel
+#EXTGRP:Фильмы
+TVSources &id='paramount channel_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="b304261c363d167f76201127d358bce2_rossia1-pl3" $ExtFilter="TVSources",Россия 1 (+3)
+#EXTGRP:Федеральные
+TVSources &id='rossiya 1 (+3)_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/.red HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Red Bull HD" $ExtFilter="TVSources",Red Bull TV UHD
+#EXTGRP:4K
+TVSources &id='red bull tv uhd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Пятый канал.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Пятый канал (+2)" $ExtFilter="TVSources",Пятый канал (+2)
+#EXTGRP:Федеральные
+TVSources &id='pyatyj kanal (+2)_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/TLC.png" tvg-id="b304261c363d167f76201127d358bce2_tlc" $ExtFilter="TVSources",TLC
+#EXTGRP:Познавательные
+TVSources &id='tlc_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/FilmBox.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_FilmBox" $ExtFilter="TVSources",FilmBox
+#EXTGRP:Фильмы
+TVSources &id='filmbox_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Настоящее страшное ТВ.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Настоящее_Страшное_Телевидение" $ExtFilter="TVSources",Настоящее Страшное Телевидение
+#EXTGRP:Фильмы
+TVSources &id='nastoyashhee strashnoe televidenie_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Ностальгия.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Ностальгия" $ExtFilter="TVSources",Ностальгия
+#EXTGRP:Развлекательные
+TVSources &id='nostal`giya_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Моя планета.png" tvg-id="b304261c363d167f76201127d358bce2_moya-planeta" $ExtFilter="TVSources",Моя планета
+#EXTGRP:Познавательные
+TVSources &id='moya planeta_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/ТНТ.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_ТНТ" $ExtFilter="TVSources",ТНТ
+#EXTGRP:Федеральные
+TVSources &id='tnt_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Центральное телевидение.png" tvg-id="b304261c363d167f76201127d358bce2_centralnoye-tv" $ExtFilter="TVSources",Центральное телевидение
+#EXTGRP:Познавательные
+TVSources &id='czentral`noe televidenie_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Кинопремьера.png" tvg-id="b304261c363d167f76201127d358bce2_kinopremiera-hd" $ExtFilter="TVSources",Кинопремьера HD
+#EXTGRP:КиноМИР
+TVSources &id='kinoprem`era hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/ТНТ HD.png" tvg-id="b304261c363d167f76201127d358bce2_tnt" $ExtFilter="TVSources",ТНТ HD
+#EXTGRP:Федеральные
+TVSources &id='tnt hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Россия К.png" tvg-id="b304261c363d167f76201127d358bce2_kultura-pl7" $ExtFilter="TVSources",Россия К (+7)
+#EXTGRP:Федеральные
+TVSources &id='rossiya k (+7)_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Первый канал HD.png" tvg-id="b304261c363d167f76201127d358bce2_pervy" $ExtFilter="TVSources",Первый канал HD
+#EXTGRP:Федеральные
+TVSources &id='pervyj kanal hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/TV1000 Русское кино HD.png" tvg-id="b304261c363d167f76201127d358bce2_tv1000-russkoe-kino" $ExtFilter="TVSources",TV1000 Русское кино HD
+#EXTGRP:Фильмы
+TVSources &id='tv1000 russkoe kino hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Наука.png" tvg-id="b304261c363d167f76201127d358bce2_nauka-20" $ExtFilter="TVSources",Наука 2.0
+#EXTGRP:Познавательные
+TVSources &id='nauka 2.0_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Россия К.png" tvg-id="b304261c363d167f76201127d358bce2_kultura" $ExtFilter="TVSources",Россия К
+#EXTGRP:Федеральные
+TVSources &id='rossiya k_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Music Box Russia.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Music Box RU" $ExtFilter="TVSources",MUSIC BOX RUSSIAN HD
+#EXTGRP:Общие
+TVSources &id='music box russian hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Футбол 2 HD.png" tvg-id="b304261c363d167f76201127d358bce2_match-football2" $ExtFilter="TVSources",Матч! Футбол 2 HD
+#EXTGRP:Матч
+TVSources &id='match! futbol 2 hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/.sci-fi.png" tvg-id="b304261c363d167f76201127d358bce2_sony-scifi" $ExtFilter="TVSources",.sci-fi
+#EXTGRP:Фильмы
+TVSources &id='.sci fi_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/vip megahit.png" tvg-id="b304261c363d167f76201127d358bce2_vip-megahit" $ExtFilter="TVSources",VIP Megahit
+#EXTGRP:Фильмы
+TVSources &id='vip megahit_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/ЕГЭ ТВ.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_ЕГЭ ТВ" $ExtFilter="TVSources",ЕГЭ ТВ
+#EXTGRP:Познавательные
+TVSources &id='ege tv_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Travel channel HD.png" tvg-id="b304261c363d167f76201127d358bce2_travel-channel" $ExtFilter="TVSources",Travel Channel HD
+#EXTGRP:Познавательные
+TVSources &id='travel channel hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/РЕН ТВ HD.png" tvg-id="b304261c363d167f76201127d358bce2_rentv" $ExtFilter="TVSources",РЕН ТВ HD
+#EXTGRP:Федеральные
+TVSources &id='ren tv hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/ТНТ Music.png" tvg-id="b304261c363d167f76201127d358bce2_tnt-pl4" $ExtFilter="TVSources",ТНТ (+4)
+#EXTGRP:Новосибирск
+TVSources &id='tnt (+4)_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/СТВ РЕН ТВ (Беларусь).png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_РЕН ТВ (+4)" $ExtFilter="TVSources",РЕН ТВ (+4)
+#EXTGRP:Новосибирск
+TVSources &id='ren tv (+4)_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Домашний.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Домашний" $ExtFilter="TVSources",Домашний
+#EXTGRP:Федеральные
+TVSources &id='domashnij_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/TV1000 HD.png" tvg-id="b304261c363d167f76201127d358bce2_tv1000" $ExtFilter="TVSources",TV1000 HD
+#EXTGRP:Фильмы
+TVSources &id='tv1000 hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Sony Turbo.png" tvg-id="b304261c363d167f76201127d358bce2_sony-turbo" $ExtFilter="TVSources",Sony Turbo
+#EXTGRP:Фильмы
+TVSources &id='sony turbo_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/vip megahit.png" tvg-id="b304261c363d167f76201127d358bce2_vip-megahit" $ExtFilter="TVSources",VIP Megahit HD
+#EXTGRP:Фильмы
+TVSources &id='vip megahit hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Amedia Premium HD.png" tvg-id="b304261c363d167f76201127d358bce2_amedia-premium" $ExtFilter="TVSources",Amedia Premium HD
+#EXTGRP:Фильмы
+TVSources &id='amedia premium hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Мир 24.png" tvg-id="b304261c363d167f76201127d358bce2_mir-pl4" $ExtFilter="TVSources",Мир (+4)
+#EXTGRP:Новосибирск
+TVSources &id='mir (+4)_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Старт.png" tvg-id="b304261c363d167f76201127d358bce2_start" $ExtFilter="TVSources",СТАРТ HD
+#EXTGRP:Спорт
+TVSources &id='start hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Bolt HD.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Bolt" $ExtFilter="TVSources",Bolt
+#EXTGRP:Фильмы
+TVSources &id='bolt_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Nano.png" tvg-id="b304261c363d167f76201127d358bce2_nano-hd" $ExtFilter="TVSources",Nano
+#EXTGRP:Познавательные
+TVSources &id='nano_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Киносемья.png" tvg-id="b304261c363d167f76201127d358bce2_kinosemiya" $ExtFilter="TVSources",Киносемья HD
+#EXTGRP:КиноМИР
+TVSources &id='kinosem`ya hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Travel + Adventure.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Travel+ Adventure HD" $ExtFilter="TVSources",Travel + Adventure HD
+#EXTGRP:Познавательные
+TVSources &id='travel + adventure hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Кино премиум HD.png" tvg-id="b304261c363d167f76201127d358bce2_premialnoe-hd" $ExtFilter="TVSources",Премиальное HD
+#EXTGRP:Фильмы
+TVSources &id='premial`noe hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Домашний-ТВК6.png" tvg-id="b304261c363d167f76201127d358bce2_domashny-int" $ExtFilter="TVSources",Домашний Int
+#EXTGRP:Федеральные
+TVSources &id='domashnij int_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Киносемья.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Киносемья" $ExtFilter="TVSources",Киносемья FHD
+#EXTGRP:КиноМИР
+TVSources &id='kinosem`ya fhd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/BRIDGE TV.png" tvg-id="b304261c363d167f76201127d358bce2_bridge-tv" $ExtFilter="TVSources",Bridge TV
+#EXTGRP:Музыка
+TVSources &id='bridge tv_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Univer TV.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Univer TV (Казань)" $ExtFilter="TVSources",UNIVER TV HD (Казань)
+#EXTGRP:Познавательные
+TVSources &id='univer tv hd (kazan`)_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Мультимузыка.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Мультимузыка" $ExtFilter="TVSources",Мультимузыка
+#EXTGRP:Музыка
+TVSources &id='mul`timuzyka_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Viasat nature.png" tvg-id="b304261c363d167f76201127d358bce2_viasat-nature" $ExtFilter="TVSources",Viasat Nature
+#EXTGRP:Познавательные
+TVSources &id='viasat nature_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/History 2.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_H2 HD" $ExtFilter="TVSources",History 2
+#EXTGRP:Познавательные
+TVSources &id='history 2_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Наш кинороман.png" tvg-id="b304261c363d167f76201127d358bce2_dushevnoe" $ExtFilter="TVSources",Наш Кинороман
+#EXTGRP:Фильмы
+TVSources &id='nash kinoroman_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Перпетуум мобиле.png" tvg-id="b304261c363d167f76201127d358bce2_perpetmobile" $ExtFilter="TVSources",Перпетуум Мобиле
+#EXTGRP:Познавательные
+TVSources &id='perpetuum mobile_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/vip premiere.png" tvg-id="b304261c363d167f76201127d358bce2_vip-premiere" $ExtFilter="TVSources",VIP Premiere HD
+#EXTGRP:Фильмы
+TVSources &id='vip premiere hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/BRIDGE TV РУССКИЙ ХИТ.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Bridge TV Русский Хит" $ExtFilter="TVSources",BRIDGE Русский Хит HD
+#EXTGRP:Общие
+TVSources &id='bridge russkij khit hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Иллюзион+.png" tvg-id="b304261c363d167f76201127d358bce2_illuzion-plus" $ExtFilter="TVSources",Иллюзион+
+#EXTGRP:Фильмы
+TVSources &id='illyuzion+_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="b304261c363d167f76201127d358bce2_rossia1-pl9" $ExtFilter="TVSources",Россия 1 (+9)
+#EXTGRP:Федеральные
+TVSources &id='rossiya 1 (+9)_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Че!2.png" tvg-id="b304261c363d167f76201127d358bce2_che-pl4" $ExtFilter="TVSources",Че! (+4)
+#EXTGRP:Новосибирск
+TVSources &id='che! (+4)_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Кто есть кто.png" tvg-id="b304261c363d167f76201127d358bce2_kto-est-kto" $ExtFilter="TVSources",Кто есть кто
+#EXTGRP:Познавательные
+TVSources &id='kto est` kto_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Первый канал HD2.png" tvg-id="b304261c363d167f76201127d358bce2_pervy-pl7" $ExtFilter="TVSources",Первый канал (+7)
+#EXTGRP:Федеральные
+TVSources &id='pervyj kanal (+7)_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Домашние животные .png" tvg-id="b304261c363d167f76201127d358bce2_domashnie-zhivotnye" $ExtFilter="TVSources",Домашние животные
+#EXTGRP:Познавательные
+TVSources &id='domashnie zhivotnye_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/ID Investigation Discovery HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_ID Investigation Discovery (Европа)" $ExtFilter="TVSources",ID Investigation Discovery HD
+#EXTGRP:Познавательные
+TVSources &id='id investigation discovery hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Travel+ adventure HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Travel+ Adventure HD" $ExtFilter="TVSources",Travel+ Adventure HD
+#EXTGRP:Познавательные
+TVSources &id='travel+ adventure hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Феникс плюс кино.png" tvg-id="b304261c363d167f76201127d358bce2_feniks-plus-kino" $ExtFilter="TVSources",Феникс+ кино
+#EXTGRP:Фильмы
+TVSources &id='feniks+ kino_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Русский роман.png" tvg-id="b304261c363d167f76201127d358bce2_russky-roman" $ExtFilter="TVSources",Русский роман
+#EXTGRP:Фильмы
+TVSources &id='russkij roman_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Страна.png" tvg-id="b304261c363d167f76201127d358bce2_match-nash-sport" $ExtFilter="TVSources",Матч! Страна
+#EXTGRP:Матч
+TVSources &id='match! strana_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Наша сибирь.png" tvg-id="b304261c363d167f76201127d358bce2_nasha-sibir-4k" $ExtFilter="TVSources",Наша Сибирь 4K HD
+#EXTGRP:Новосибирск
+TVSources &id='nasha sibir` 4k hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Discovery Channel.png" tvg-id="b304261c363d167f76201127d358bce2_discovery-channel" $ExtFilter="TVSources",Discovery Channel
+#EXTGRP:Познавательные
+TVSources &id='discovery channel_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/РТР Планета.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Planeta RTR" $ExtFilter="TVSources",РТР Планета
+#EXTGRP:Федеральные
+TVSources &id='rtr planeta_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Русская ночь.png" tvg-id="b304261c363d167f76201127d358bce2_russkaya-komedia" $ExtFilter="TVSources",Русская комедия
+#EXTGRP:Фильмы
+TVSources &id='russkaya komediya_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/360°.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_360TV" $ExtFilter="TVSources",360°
+#EXTGRP:Познавательные
+TVSources &id='360176_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Романтичное.png" tvg-id="b304261c363d167f76201127d358bce2_romantichnoe-hd" $ExtFilter="TVSources",Романтичное HD
+#EXTGRP:Фильмы
+TVSources &id='romantichnoe hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Первый канал HD2.png" tvg-id="b304261c363d167f76201127d358bce2_pervy-pl8" $ExtFilter="TVSources",Первый канал (+8)
+#EXTGRP:Федеральные
+TVSources &id='pervyj kanal (+8)_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Наше любимое кино.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Наше любимое кино" $ExtFilter="TVSources",Наше любимое кино
+#EXTGRP:Фильмы
+TVSources &id='nashe lyubimoe kino_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Первый Космический.png" tvg-id="b304261c363d167f76201127d358bce2_eureka-hd" $ExtFilter="TVSources",Первый космический
+#EXTGRP:Познавательные
+TVSources &id='pervyj kosmicheskij_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/ТВ-3 HD.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_ТВ-3" $ExtFilter="TVSources",ТВ-3 (+2)
+#EXTGRP:Федеральные
+TVSources &id='tv 3 (+2)_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Неизвестная планета.png" tvg-id="b304261c363d167f76201127d358bce2_neizvestnaya-planeta" $ExtFilter="TVSources",Неизвестная Планета
+#EXTGRP:Познавательные
+TVSources &id='neizvestnaya planeta_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/НТВ Хит.png" tvg-id="b304261c363d167f76201127d358bce2_ntv-xit" $ExtFilter="TVSources",НТВ Хит
+#EXTGRP:Фильмы
+TVSources &id='ntv khit_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Viasat nature HD.png" tvg-id="b304261c363d167f76201127d358bce2_viasat-nature" $ExtFilter="TVSources",Viasat Nature HD
+#EXTGRP:Познавательные
+TVSources &id='viasat nature hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Discovery Channel HD.png" tvg-id="b304261c363d167f76201127d358bce2_discovery-channel" $ExtFilter="TVSources",Discovery Channel HD
+#EXTGRP:Познавательные
+TVSources &id='discovery channel hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/НТВ Сериал.png" tvg-id="b304261c363d167f76201127d358bce2_ntv-serial" $ExtFilter="TVSources",НТВ Сериал
+#EXTGRP:Фильмы
+TVSources &id='ntv serial_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/КиноМеню HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Киноменю HD" $ExtFilter="TVSources",КиноМеню HD
+#EXTGRP:Фильмы
+TVSources &id='kinomenyu hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Кинопремьера.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Кинопремьера" $ExtFilter="TVSources",Кинопремьера FHD
+#EXTGRP:Фильмы
+TVSources &id='kinoprem`era fhd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Нано.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Nano HD" $ExtFilter="TVSources",Нано HD
+#EXTGRP:Познавательные
+TVSources &id='nano hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Кино премиум HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Премиальное HD" $ExtFilter="TVSources",Кино Премиум HD
+#EXTGRP:Фильмы
+TVSources &id='kino premium hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Первый канал HD2.png" tvg-id="b304261c363d167f76201127d358bce2_pervy-pl5" $ExtFilter="TVSources",Первый канал (+5)
+#EXTGRP:Федеральные
+TVSources &id='pervyj kanal (+5)_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/49 канал.png" tvg-id="b304261c363d167f76201127d358bce2_49kanal" $ExtFilter="TVSources",49 канал
+#EXTGRP:Новосибирск
+TVSources &id='49 kanal_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Наша сибирь.png" tvg-id="b304261c363d167f76201127d358bce2_nasha-sibir-4k" $ExtFilter="TVSources",Наша Сибирь 4K
+#EXTGRP:4K
+TVSources &id='nasha sibir` 4k_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/vip premiere.png" tvg-id="b304261c363d167f76201127d358bce2_vip-premiere" $ExtFilter="TVSources",VIP Premiere
+#EXTGRP:Фильмы
+TVSources &id='vip premiere_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/НТВ.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_НТВ" $ExtFilter="TVSources",НТВ
+#EXTGRP:Федеральные
+TVSources &id='ntv_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Дикая рыбалка HD.png" tvg-id="b304261c363d167f76201127d358bce2_dikaya-rybalka-hd" $ExtFilter="TVSources",Дикая рыбалка HD
+#EXTGRP:Мужские
+TVSources &id='dikaya rybalka hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/TERRA.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Terra" $ExtFilter="TVSources",TERRA
+#EXTGRP:Познавательные
+TVSources &id='terra_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Пятый канал.png" tvg-id="b304261c363d167f76201127d358bce2_5kanal-ru" $ExtFilter="TVSources",Пятый канал
+#EXTGRP:Федеральные
+TVSources &id='pyatyj kanal_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/History 2 HD .png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_H2 HD" $ExtFilter="TVSources",History 2 HD
+#EXTGRP:Познавательные
+TVSources &id='history 2 hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Nano HD.png" tvg-id="b304261c363d167f76201127d358bce2_nano-hd" $ExtFilter="TVSources",NANO HD
+#EXTGRP:Познавательные
+TVSources &id='nano hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Русский детектив.png" tvg-id="b304261c363d167f76201127d358bce2_russky-detektiv" $ExtFilter="TVSources",Русский детектив
+#EXTGRP:Фильмы
+TVSources &id='russkij detektiv_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Глазами туриста.png" tvg-id="b304261c363d167f76201127d358bce2_glazami-turista" $ExtFilter="TVSources",Глазами туриста
+#EXTGRP:Познавательные
+TVSources &id='glazami turista_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Movie Classic.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_MiTV HBO movie" $ExtFilter="TVSources",Movie Classic
+#EXTGRP:Фильмы
+TVSources &id='movie classic_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/VIP Serial.png" tvg-id="b304261c363d167f76201127d358bce2_vip-serial" $ExtFilter="TVSources",VIP Serial
+#EXTGRP:Фильмы
+TVSources &id='vip serial_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Кино ТВ.png" tvg-id="b304261c363d167f76201127d358bce2_kino-tv" $ExtFilter="TVSources",КИНО ТВ
+#EXTGRP:Фильмы
+TVSources &id='kino tv_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/vip comedy.png" tvg-id="b304261c363d167f76201127d358bce2_vip-comedy" $ExtFilter="TVSources",VIP Comedy HD
+#EXTGRP:Фильмы
+TVSources &id='vip comedy hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/vip comedy.png" tvg-id="b304261c363d167f76201127d358bce2_vip-comedy" $ExtFilter="TVSources",VIP Comedy
+#EXTGRP:Фильмы
+TVSources &id='vip comedy_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/TV1000 Русское кино.png" tvg-id="b304261c363d167f76201127d358bce2_tv1000-russkoe-kino" $ExtFilter="TVSources",TV1000 Русское кино
+#EXTGRP:Фильмы
+TVSources &id='tv1000 russkoe kino_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Ямал-регион.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Ямал-1" $ExtFilter="TVSources",Ямал 1
+#EXTGRP:Познавательные
+TVSources &id='yamal 1_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Футбол 1 HD.png" tvg-id="b304261c363d167f76201127d358bce2_match-football1" $ExtFilter="TVSources",Матч! Футбол 1 HD
+#EXTGRP:Матч
+TVSources &id='match! futbol 1 hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/HD Life.png" tvg-id="b304261c363d167f76201127d358bce2_hd-life" $ExtFilter="TVSources",HD Life
+#EXTGRP:Познавательные
+TVSources &id='hd life_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/TV1000 Action HD.png" tvg-id="b304261c363d167f76201127d358bce2_tv1000-action" $ExtFilter="TVSources",TV1000 Action HD
+#EXTGRP:Фильмы
+TVSources &id='tv1000 action hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Драйв.png" tvg-id="b304261c363d167f76201127d358bce2_drive" $ExtFilter="TVSources",Драйв
+#EXTGRP:Мужские
+TVSources &id='drajv_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/History HD.png" tvg-id="b304261c363d167f76201127d358bce2_history-ru" $ExtFilter="TVSources",History HD
+#EXTGRP:Познавательные
+TVSources &id='history hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Bridge TV Hits.png" tvg-id="b304261c363d167f76201127d358bce2_bridge-tv-fresh" $ExtFilter="TVSources",BRIDGE ФРЭШ HD
+#EXTGRP:Музыка
+TVSources &id='bridge fresh hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Живая планета.png" tvg-id="b304261c363d167f76201127d358bce2_zhivaya-planeta" $ExtFilter="TVSources",Живая планета
+#EXTGRP:Познавательные
+TVSources &id='zhivaya planeta_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Россия 24.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Россия 24" $ExtFilter="TVSources",Россия 24 HD
+#EXTGRP:Федеральные
+TVSources &id='rossiya 24 hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/TV1000 Action.png" tvg-id="b304261c363d167f76201127d358bce2_tv1000-action" $ExtFilter="TVSources",TV1000 Action
+#EXTGRP:Фильмы
+TVSources &id='tv1000 action_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/TV1000.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_TV1000" $ExtFilter="TVSources",TV1000
+#EXTGRP:Фильмы
+TVSources &id='tv1000_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/FOX HD.png" tvg-id="b304261c363d167f76201127d358bce2_fox" $ExtFilter="TVSources",FOX HD
+#EXTGRP:Фильмы
+TVSources &id='fox hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Setanta Sports 1.png" tvg-id="b304261c363d167f76201127d358bce2_setanta-sports" $ExtFilter="TVSources",Setanta Sports 1 HD
+#EXTGRP:Матч
+TVSources &id='setanta sports 1 hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/KHL.png" tvg-id="b304261c363d167f76201127d358bce2_kxl" $ExtFilter="TVSources",KHL
+#EXTGRP:Матч
+TVSources &id='khl_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Sony Channel.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_• red" $ExtFilter="TVSources",Sony Channel
+#EXTGRP:Фильмы
+TVSources &id='sony channel_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Русский иллюзион.png" tvg-id="b304261c363d167f76201127d358bce2_russky-illuzion" $ExtFilter="TVSources",Русский иллюзион
+#EXTGRP:Фильмы
+TVSources &id='russkij illyuzion_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Киносерия.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_КИНОСЕРИЯ" $ExtFilter="TVSources",Киносерия
+#EXTGRP:КиноМИР
+TVSources &id='kinoseriya_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Премьер HD.png" tvg-id="b304261c363d167f76201127d358bce2_match-premier" $ExtFilter="TVSources",Матч! Премьер HD
+#EXTGRP:Матч
+TVSources &id='match! prem`er hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Viasat explore HD.png" tvg-id="b304261c363d167f76201127d358bce2_viasat-explore" $ExtFilter="TVSources",Viasat Explore HD
+#EXTGRP:Познавательные
+TVSources &id='viasat explore hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/KHL PRIME.png" tvg-id="b304261c363d167f76201127d358bce2_kxl-hd" $ExtFilter="TVSources",KHL Prime
+#EXTGRP:Матч
+TVSources &id='khl prime_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Русский бестселлер.png" tvg-id="b304261c363d167f76201127d358bce2_russky-bestseller" $ExtFilter="TVSources",Русский бестселлер
+#EXTGRP:Фильмы
+TVSources &id='russkij bestseller_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Премьер.png" tvg-id="b304261c363d167f76201127d358bce2_match-premier" $ExtFilter="TVSources",Матч! Премьер
+#EXTGRP:Матч
+TVSources &id='match! prem`er_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Sony Sci-Fi.png" tvg-id="b304261c363d167f76201127d358bce2_sony-scifi" $ExtFilter="TVSources",Sony Sci-Fi
+#EXTGRP:Фильмы
+TVSources &id='sony sci fi_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Ретро ТВ.png" tvg-id="b304261c363d167f76201127d358bce2_retro-tv" $ExtFilter="TVSources",Ретро ТВ
+#EXTGRP:Развлекательные
+TVSources &id='retro tv_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Живая природа.png" tvg-id="b304261c363d167f76201127d358bce2_zhivaya-priroda" $ExtFilter="TVSources",Живая природа
+#EXTGRP:Познавательные
+TVSources &id='zhivaya priroda_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="b304261c363d167f76201127d358bce2_rossia1" $ExtFilter="TVSources",Россия 1 HD
+#EXTGRP:Федеральные
+TVSources &id='rossiya 1 hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Paramount Comedy.png" tvg-id="b304261c363d167f76201127d358bce2_paramount-comedy" $ExtFilter="TVSources",Paramount Comedy
+#EXTGRP:Фильмы
+TVSources &id='paramount comedy_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Киносвидание.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Киносвидание" $ExtFilter="TVSources",Киносвидание
+#EXTGRP:КиноМИР
+TVSources &id='kinosvidanie_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/РЕН ТВ.png" tvg-id="b304261c363d167f76201127d358bce2_rentv" $ExtFilter="TVSources",РЕН ТВ
+#EXTGRP:Федеральные
+TVSources &id='ren tv_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Bridge TV Hits.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Bridge TV Шлягер" $ExtFilter="TVSources",BRIDGE Шлягер
+#EXTGRP:Музыка
+TVSources &id='bridge shlyager_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/СТВ РЕН ТВ (Беларусь).png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_РЕН ТВ (+7)" $ExtFilter="TVSources",РЕН ТВ (+7)
+#EXTGRP:Федеральные
+TVSources &id='ren tv (+7)_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Fox Life.png" tvg-id="b304261c363d167f76201127d358bce2_foxlife" $ExtFilter="TVSources",FOX Life
+#EXTGRP:Фильмы
+TVSources &id='fox life_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Диалоги о рыбалке.png" tvg-id="b304261c363d167f76201127d358bce2_dialogi-o-rybalke" $ExtFilter="TVSources",Диалоги о Рыбалке
+#EXTGRP:Мужские
+TVSources &id='dialogi o rybalke_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/НТВ HD.png" tvg-id="b304261c363d167f76201127d358bce2_ntv" $ExtFilter="TVSources",НТВ HD
+#EXTGRP:Федеральные
+TVSources &id='ntv hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/НТВ (+4).png" tvg-id="b304261c363d167f76201127d358bce2_ntv-pl4" $ExtFilter="TVSources",НТВ (+4)
+#EXTGRP:Новосибирск
+TVSources &id='ntv (+4)_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/ID Investigation Discovery.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_ID Investigation Discovery (Европа)" $ExtFilter="TVSources",ID Investigation Discovery
+#EXTGRP:Познавательные
+TVSources &id='id investigation discovery_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Star Cinema HD.png" tvg-id="b304261c363d167f76201127d358bce2_cinema" $ExtFilter="TVSources",Cinema Космос ТВ
+#EXTGRP:Фильмы
+TVSources &id='cinema kosmos tv_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Cinema.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Cinema" $ExtFilter="TVSources",Cinema
+#EXTGRP:Фильмы
+TVSources &id='cinema_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Планета.png" tvg-id="b304261c363d167f76201127d358bce2_match-planeta" $ExtFilter="TVSources",МАТЧ! Планета
+#EXTGRP:Матч
+TVSources &id='match! planeta_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Zee TV.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Zee TV" $ExtFilter="TVSources",Zee TV HD
+#EXTGRP:Индия
+TVSources &id='zee tv hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/СТС Kids.png" tvg-id="b304261c363d167f76201127d358bce2_sts-pl4" $ExtFilter="TVSources",СТС (+4)
+#EXTGRP:Новосибирск
+TVSources &id='sts (+4)_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Amedia Premium HD.png" tvg-id="b304261c363d167f76201127d358bce2_amedia-premium" $ExtFilter="TVSources",Amedia Premium
+#EXTGRP:Фильмы
+TVSources &id='amedia premium_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Звезда.png" tvg-id="b304261c363d167f76201127d358bce2_zvezda-pl2" $ExtFilter="TVSources",Звезда (+2)
+#EXTGRP:Федеральные
+TVSources &id='zvezda (+2)_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/DocuBox.png" tvg-id="b304261c363d167f76201127d358bce2_docubox-hd" $ExtFilter="TVSources",DocuBox HD
+#EXTGRP:Познавательные
+TVSources &id='docubox hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/.red.png" tvg-id="b304261c363d167f76201127d358bce2_sony-tv" $ExtFilter="TVSources",.red
+#EXTGRP:Фильмы
+TVSources &id='.red_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Россия К.png" tvg-id="b304261c363d167f76201127d358bce2_kultura-pl4" $ExtFilter="TVSources",Россия К (+4)
+#EXTGRP:Новосибирск
+TVSources &id='rossiya k (+4)_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Amedia Hit.png" tvg-id="b304261c363d167f76201127d358bce2_amedia-hit" $ExtFilter="TVSources",Amedia Hit HD
+#EXTGRP:Фильмы
+TVSources &id='amedia hit hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Индийское кино.png" tvg-id="b304261c363d167f76201127d358bce2_indiyskoe-kino" $ExtFilter="TVSources",Индийское кино
+#EXTGRP:КиноМИР
+TVSources &id='indijskoe kino_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Охотник и рыболов.png" tvg-id="b304261c363d167f76201127d358bce2_oxotnik-i-rybolov" $ExtFilter="TVSources",Охотник и рыболов
+#EXTGRP:Мужские
+TVSources &id='okhotnik i rybolov_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Galaxy.png" tvg-id="b304261c363d167f76201127d358bce2_galaxy-tv" $ExtFilter="TVSources",Galaxy TV
+#EXTGRP:Познавательные
+TVSources &id='galaxy tv_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/365 Дней.png" tvg-id="b304261c363d167f76201127d358bce2_365-dnej" $ExtFilter="TVSources",365 дней
+#EXTGRP:Познавательные
+TVSources &id='365 dnej_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Весёлая карусель.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Карусель (+4)" $ExtFilter="TVSources",Карусель (+4)
+#EXTGRP:Новосибирск
+TVSources &id='karusel` (+4)_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Amedia Hit.png" tvg-id="b304261c363d167f76201127d358bce2_amedia-hit" $ExtFilter="TVSources",Amedia Hit
+#EXTGRP:Фильмы
+TVSources &id='amedia hit_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/A1.png" tvg-id="b304261c363d167f76201127d358bce2_amedia1" $ExtFilter="TVSources",A1
+#EXTGRP:Фильмы
+TVSources &id='a1_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Звезда.png" tvg-id="b304261c363d167f76201127d358bce2_zvezda-pl4" $ExtFilter="TVSources",Звезда (+4)
+#EXTGRP:Новосибирск
+TVSources &id='zvezda (+4)_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/TV XXI.png" tvg-id="b304261c363d167f76201127d358bce2_tvxxi" $ExtFilter="TVSources",TV XXI
+#EXTGRP:Фильмы
+TVSources &id='tv xxi_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Canal  Sport.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Canal 3" $ExtFilter="TVSources",Canal 3 HD
+#EXTGRP:Фильмы
+TVSources &id='canal 3 hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Киносвидание.png" tvg-id="b304261c363d167f76201127d358bce2_kinosvidanie" $ExtFilter="TVSources",Киносвидание HD
+#EXTGRP:КиноМИР
+TVSources &id='kinosvidanie hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Киномикс.png" tvg-id="b304261c363d167f76201127d358bce2_kinomiks" $ExtFilter="TVSources",Киномикс HD
+#EXTGRP:КиноМИР
+TVSources &id='kinomiks hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Viasat Sport.png" tvg-id="b304261c363d167f76201127d358bce2_viasat-sport" $ExtFilter="TVSources",Viasat Sport
+#EXTGRP:Матч
+TVSources &id='viasat sport_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Соловьёвlive.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_СОЛОВЬЁВLIVE" $ExtFilter="TVSources",Соловьёв Live
+#EXTGRP:Общие
+TVSources &id='solov`yov live_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Игра.png" tvg-id="b304261c363d167f76201127d358bce2_match-igra" $ExtFilter="TVSources",Матч! Игра
+#EXTGRP:Матч
+TVSources &id='match! igra_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Zee TV.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Zee TV" $ExtFilter="TVSources",Zee TV
+#EXTGRP:Индия
+TVSources &id='zee tv_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/ТВЦ.png" tvg-id="b304261c363d167f76201127d358bce2_tvcentr" $ExtFilter="TVSources",ТВЦ
+#EXTGRP:Федеральные
+TVSources &id='tvcz_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/ТВ-3 HD.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_ТВ-3" $ExtFilter="TVSources",ТВ-3 (+7)
+#EXTGRP:Федеральные
+TVSources &id='tv 3 (+7)_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Bolt HD.png" tvg-id="b304261c363d167f76201127d358bce2_bolt" $ExtFilter="TVSources",BOLT HD
+#EXTGRP:Фильмы
+TVSources &id='bolt hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="b304261c363d167f76201127d358bce2_rossia1-pl8" $ExtFilter="TVSources",Россия 1 (+8)
+#EXTGRP:Федеральные
+TVSources &id='rossiya 1 (+8)_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Еврокино.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Еврокино" $ExtFilter="TVSources",Еврокино
+#EXTGRP:Фильмы
+TVSources &id='evrokino_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Eurosport 2 HD.png" tvg-id="b304261c363d167f76201127d358bce2_eurosport2" $ExtFilter="TVSources",Eurosport 2 HD
+#EXTGRP:Матч
+TVSources &id='eurosport 2 hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/ZooПарк.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Zooпарк" $ExtFilter="TVSources",Zooпарк
+#EXTGRP:Познавательные
+TVSources &id='zoopark_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Россия 24.png" tvg-id="b304261c363d167f76201127d358bce2_rossia-24" $ExtFilter="TVSources",Россия 24
+#EXTGRP:Федеральные
+TVSources &id='rossiya 24_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Первый канал HD2.png" tvg-id="b304261c363d167f76201127d358bce2_pervy-pl9" $ExtFilter="TVSources",Первый канал (+9)
+#EXTGRP:Федеральные
+TVSources &id='pervyj kanal (+9)_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Звезда.png" tvg-id="b304261c363d167f76201127d358bce2_zvezda" $ExtFilter="TVSources",Звезда HD
+#EXTGRP:Федеральные
+TVSources &id='zvezda hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Боец.png" tvg-id="b304261c363d167f76201127d358bce2_match-boets" $ExtFilter="TVSources",Матч! Боец
+#EXTGRP:Матч
+TVSources &id='match! boecz_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Время.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_ВРЕМЯ" $ExtFilter="TVSources",Время
+#EXTGRP:Познавательные
+TVSources &id='vremya_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Наше новое кино.png" tvg-id="b304261c363d167f76201127d358bce2_nashe-novoe-kino" $ExtFilter="TVSources",Наше новое кино
+#EXTGRP:КиноМИР
+TVSources &id='nashe novoe kino_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Дикая рыбалка HD.png" tvg-id="b304261c363d167f76201127d358bce2_rybalka-i-oxota" $ExtFilter="TVSources",Рыбалка и охота
+#EXTGRP:Мужские
+TVSources &id='rybalka i okhota_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="b304261c363d167f76201127d358bce2_rossia1-pl2" $ExtFilter="TVSources",Россия 1 (+2)
+#EXTGRP:Федеральные
+TVSources &id='rossiya 1 (+2)_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="b304261c363d167f76201127d358bce2_rossia1-pl1" $ExtFilter="TVSources",Россия 1 (+1)
+#EXTGRP:Федеральные
+TVSources &id='rossiya 1 (+1)_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Дикий.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Дикий" $ExtFilter="TVSources",Дикий
+#EXTGRP:Познавательные
+TVSources &id='dikij_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Охота и Рыбалка.png" tvg-id="b304261c363d167f76201127d358bce2_oxota-i-rybalka" $ExtFilter="TVSources",Охота и рыбалка
+#EXTGRP:Мужские
+TVSources &id='okhota i rybalka_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Eurosport 1.png" tvg-id="b304261c363d167f76201127d358bce2_eurosport1" $ExtFilter="TVSources",Eurosport 1
+#EXTGRP:Матч
+TVSources &id='eurosport 1_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="b304261c363d167f76201127d358bce2_rossia1-pl4" $ExtFilter="TVSources",Россия 1 (+4)
+#EXTGRP:Новосибирск
+TVSources &id='rossiya 1 (+4)_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/HDL.png" tvg-id="b304261c363d167f76201127d358bce2_hd-life" $ExtFilter="TVSources",HDL
+#EXTGRP:Познавательные
+TVSources &id='hdl_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Первый канал HD2.png" tvg-id="b304261c363d167f76201127d358bce2_pervy-pl4" $ExtFilter="TVSources",Первый канал (+4)
+#EXTGRP:Новосибирск
+TVSources &id='pervyj kanal (+4)_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/BRIDGE TV CLASSIC.png" tvg-id="b304261c363d167f76201127d358bce2_bridge-tv-classic" $ExtFilter="TVSources",Bridge TV Classic
+#EXTGRP:Музыка
+TVSources &id='bridge tv classic_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Первый канал HD2.png" tvg-id="b304261c363d167f76201127d358bce2_pervy-pl6" $ExtFilter="TVSources",Первый канал (+6)
+#EXTGRP:Федеральные
+TVSources &id='pervyj kanal (+6)_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Travel+ adventure.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Travel+ Adventure HD" $ExtFilter="TVSources",Travel+ Adventure
+#EXTGRP:Познавательные
+TVSources &id='travel+ adventure_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Новое радио (Самара).png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Новое время (Радужный)" $ExtFilter="TVSources",Новое время (Радужный)
+#EXTGRP:WINK+Aрхив
+TVSources &id='novoe vremya (raduzhnyj)_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Волга (Н. Новгород).png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Волга (Н. Новгород)" $ExtFilter="TVSources",Волга (Н. Новгород)
+#EXTGRP:WINK+Aрхив
+TVSources &id='volga (n. novgorod)_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Антенна (Черкассы).png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Каскад (Калининград)" $ExtFilter="TVSources",Каскад
+#EXTGRP:WINK+Aрхив
+TVSources &id='kaskad_d0'
+#EXTINF:-1 tvg-logo="https://picon.ml/atv-media.png" tvg-id="b304261c363d167f76201127d358bce2_atv-media" $ExtFilter="TVSources",АТВ-Медиа
+#EXTGRP:WINK+Aрхив
+TVSources &id='atv media_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/ТВ-3 Беларусь.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_ТВ7 (Абакан)" $ExtFilter="TVSources",ТВ-7 Абакан
+#EXTGRP:WINK+Aрхив
+TVSources &id='tv 7 abakan_d0'
+#EXTINF:-1 tvg-logo="http://i115.fastpic.org/big/2021/0927/51/7b9d9580175a3ea3a70acb8541cbd351.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_РГВК Дагестан" $ExtFilter="TVSources",РГВК Дагестан
+#EXTGRP:WINK+Aрхив
+TVSources &id='rgvk dagestan_d0'
+#EXTINF:-1 tvg-logo="http://i115.fastpic.org/big/2021/0927/be/eea3461660ffdbc50e0c71021478b6be.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_МЭТР (Йошкар-Ола)" $ExtFilter="TVSources",МЭТР (Марий Эл)
+#EXTGRP:WINK+Aрхив
+TVSources &id='metr (marij el)_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Backus tv.png" tvg-id="b304261c363d167f76201127d358bce2_backustv" $ExtFilter="TVSources",BackusTV
+#EXTGRP:📽️ Фильмовые
+TVSources &id='backustv_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Hollywood HD.png" tvg-id="b304261c363d167f76201127d358bce2_hollywood-hd" $ExtFilter="TVSources",Hollywood HD
+#EXTGRP:📽️ Фильмовые
+TVSources &id='hollywood hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Страна FM.png" tvg-id="b304261c363d167f76201127d358bce2_radio-strana-fm-tv" $ExtFilter="TVSources",Страна FM
+#EXTGRP:🎵 Музыкальные
+TVSources &id='strana fm_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/ОТР.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_ОТР" $ExtFilter="TVSources",ОТР
+#EXTGRP:WINK+Aрхив
+TVSources &id='otr_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Астрахань 24.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Астрахань 24" $ExtFilter="TVSources",Астрахань 24 HD
+#EXTGRP:WINK+Aрхив
+TVSources &id='astrakhan` 24 hd_d0'
+#EXTINF:-1 tvg-logo="https://picon.ml/ugra-travel.png" tvg-id="b304261c363d167f76201127d358bce2_ugra-travel" $ExtFilter="TVSources",UGRA TRAVEL
+#EXTGRP:WINK+Aрхив
+TVSources &id='ugra travel_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Наша сибирь.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Наши города (Когалым)" $ExtFilter="TVSources",Наши города
+#EXTGRP:WINK+Aрхив
+TVSources &id='nashi goroda_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Охотник и рыболов.png" tvg-id="b304261c363d167f76201127d358bce2_oxotnik-i-rybolov" $ExtFilter="TVSources",Рыболов
+#EXTGRP:🌏 Познавательные
+TVSources &id='rybolov_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/ННТВ (Нижний Новгород).png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_ННТВ" $ExtFilter="TVSources",ННТВ
+#EXTGRP:WINK+Aрхив
+TVSources &id='nntv_d0'
+#EXTINF:-1 tvg-logo="https://picon.ml/my-i-gorod.png" tvg-id="b304261c363d167f76201127d358bce2_my-i-gorod" $ExtFilter="TVSources",Мы и город
+#EXTGRP:WINK+Aрхив
+TVSources &id='my i gorod_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Губерния (Самара).png" tvg-id="b304261c363d167f76201127d358bce2_gubernia-samara" $ExtFilter="TVSources",Губерния Самара
+#EXTGRP:WINK+Aрхив
+TVSources &id='guberniya samara_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Тюменское время.png" tvg-id="b304261c363d167f76201127d358bce2_tumenskoe-vremia" $ExtFilter="TVSources",Тюменское время
+#EXTGRP:WINK+Aрхив
+TVSources &id='tyumenskoe vremya_d0'
+#EXTINF:-1 tvg-logo="http://i115.fastpic.org/big/2021/1003/b8/31739ce2ae4c4afd00a50b1845870eb8.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Суббота!" $ExtFilter="TVSources",Суббота! HD
+#EXTGRP:🇷🇺 Эфирные
+TVSources &id='subbota! hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Архыз 24.png" tvg-id="b304261c363d167f76201127d358bce2_arxyz24" $ExtFilter="TVSources",Архыз-24 HD
+#EXTGRP:WINK+Aрхив
+TVSources &id='arkhyz 24 hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Тайны Галактики.png" tvg-id="b304261c363d167f76201127d358bce2_aktis" $ExtFilter="TVSources",Актис HD (Ангарск)
+#EXTGRP:WINK+Aрхив
+TVSources &id='aktis hd (angarsk)_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/ОТВ (Екатеринбург).png" tvg-id="b304261c363d167f76201127d358bce2_otv-eburg" $ExtFilter="TVSources",ОТВ Екатеринбург HD
+#EXTGRP:WINK+Aрхив
+TVSources &id='otv ekaterinburg hd_d0'
+#EXTINF:-1 tvg-logo="http://i120.fastpic.org/big/2022/0720/32/5030218b6bf1a3dddcd2fe00b03cb232.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Уже видел" $ExtFilter="TVSources",Уже видел
+#EXTGRP:📽️ Фильмовые
+TVSources &id='uzhe videl_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/НТС ТВ Севастополь.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_НТС-Ирбит (Екатеринбург)" $ExtFilter="TVSources",НТС-Ирбит (Екатеринбург)
+#EXTGRP:WINK+Aрхив
+TVSources &id='nts irbit (ekaterinburg)_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Киноужас.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Киноужас" $ExtFilter="TVSources",Киноужас
+#EXTGRP:📽️ Фильмовые
+TVSources &id='kinouzhas_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Нижний Новгород 24 (Нижний Новгород).png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Городской телеканал (Ярославль)" $ExtFilter="TVSources",Городской телеканал (Ярославль)
+#EXTGRP:WINK+Aрхив
+TVSources &id='gorodskoj telekanal (yaroslavl`)_d0'
+#EXTINF:-1 tvg-logo="https://picon.ml/1obl-blagoveschensk.png" tvg-id="b304261c363d167f76201127d358bce2_1obl-blagoveschensk" $ExtFilter="TVSources",Амурское областное телевидение
+#EXTGRP:WINK+Aрхив
+TVSources &id='amurskoe oblastnoe televidenie_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Искушение.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Енисей (Красноярск)" $ExtFilter="TVSources",Енисей HD
+#EXTGRP:WINK+Aрхив
+TVSources &id='enisej hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/ТВ-3 Беларусь.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Губерния ТВ (Воронеж)" $ExtFilter="TVSources",ТВ-Губерния
+#EXTGRP:WINK+Aрхив
+TVSources &id='tv guberniya_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Муз ТВ.png" tvg-id="b304261c363d167f76201127d358bce2_muztv" $ExtFilter="TVSources",Муз ТВ
+#EXTGRP:🎵 Музыкальные
+TVSources &id='muz tv_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Мир.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_МИР" $ExtFilter="TVSources",Мир
+#EXTGRP:WINK+Aрхив
+TVSources &id='mir_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Майдан тв.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Майдан" $ExtFilter="TVSources",Майдан
+#EXTGRP:WINK+Aрхив
+TVSources &id='majdan_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/С1 (Сургут).png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_С1 HD (Сургут)" $ExtFilter="TVSources",С1 Сургут HD
+#EXTGRP:WINK+Aрхив
+TVSources &id='s1 surgut hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Новый век (Тамбов).png" tvg-id="b304261c363d167f76201127d358bce2_novy-vek-tambov" $ExtFilter="TVSources",Новый век (Тамбов)
+#EXTGRP:WINK+Aрхив
+TVSources &id='novyj vek (tambov)_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Тверской проспект.png" tvg-id="b304261c363d167f76201127d358bce2_tverskoy-prospekt" $ExtFilter="TVSources",Тверской Проспект
+#EXTGRP:WINK+Aрхив
+TVSources &id='tverskoj prospekt_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/ОТВ Днепр.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_ОТВ-Сахалин (Южно-Сахалинск)" $ExtFilter="TVSources",ОТВ-Сахалин
+#EXTGRP:WINK+Aрхив
+TVSources &id='otv sakhalin_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Теленовелла.png" tvg-id="b304261c363d167f76201127d358bce2_lot-47" $ExtFilter="TVSources",Лен ТВ 24
+#EXTGRP:WINK+Aрхив
+TVSources &id='len tv 24_d0'
+#EXTINF:-1 tvg-logo="http://i115.fastpic.org/big/2021/0924/b4/206c12e5512b5f3646db19d45c620bb4.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_m2o TV" $ExtFilter="TVSources",M2 HD
+#EXTGRP:🎵 Музыкальные
+TVSources &id='m2 hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Top cinema HD.png" tvg-id="b304261c363d167f76201127d358bce2_amedia-hit" $ExtFilter="TVSources",A HOME OF HBO
+#EXTGRP:📽️ Фильмовые
+TVSources &id='a home of hbo_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/ГТРК Кузбасс.png" tvg-id="b304261c363d167f76201127d358bce2_kuzbas1" $ExtFilter="TVSources",Кузбасс 1
+#EXTGRP:WINK+Aрхив
+TVSources &id='kuzbass 1_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Удмуртия ТВ.png" tvg-id="b304261c363d167f76201127d358bce2_udmurtia" $ExtFilter="TVSources",Удмуртия
+#EXTGRP:WINK+Aрхив
+TVSources &id='udmurtiya_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/47 канал.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_7 канал (Красноярск)" $ExtFilter="TVSources",7 канал (Красноярск)
+#EXTGRP:WINK+Aрхив
+TVSources &id='7 kanal (krasnoyarsk)_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/8 канал (Красноярск).png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_8 канал (Красноярск)" $ExtFilter="TVSources",8 канал (Красноярск)
+#EXTGRP:WINK+Aрхив
+TVSources &id='8 kanal (krasnoyarsk)_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/МТС Инфо.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Инфо 24 HD (Шадринск)" $ExtFilter="TVSources",Инфо 24 HD
+#EXTGRP:WINK+Aрхив
+TVSources &id='info 24 hd_00'
+#EXTINF:-1 tvg-logo="https://picon.ml/tolpartv.png" tvg-id="b304261c363d167f76201127d358bce2_tolpartv" $ExtFilter="TVSources",Толпар-ТВ (Уфа)
+#EXTGRP:WINK+Aрхив
+TVSources &id='tolpar tv (ufa)_d0'
+#EXTINF:-1 tvg-logo="http://i120.fastpic.org/big/2022/0529/b9/7cb6ded59785cfba0d74e4b22ee3a0b9.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Mooz Hits" $ExtFilter="TVSources",Mooz HITS
+#EXTGRP:🎵 Музыкальные
+TVSources &id='mooz hits_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Барс ТВ.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Барс (Иваново)" $ExtFilter="TVSources",Барс плюс
+#EXTGRP:WINK+Aрхив
+TVSources &id='bars plyus_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Первый музыкальный HD.png" tvg-id="b304261c363d167f76201127d358bce2_onemuz" $ExtFilter="TVSources",Первый Музыкальный RU
+#EXTGRP:🎵 Музыкальные
+TVSources &id='pervyj muzykal`nyj ru_d0'
+#EXTINF:-1 tvg-logo="http://i115.fastpic.org/big/2021/0926/2e/1c6e7a06604ae4e3e782dec6fd44542e.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Вариант V (Владимир)" $ExtFilter="TVSources",Вариант V (Владимир)
+#EXTGRP:WINK+Aрхив
+TVSources &id='variant v (vladimir)_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Парк Патриот.png" tvg-id="b304261c363d167f76201127d358bce2_vremia-arktiki" $ExtFilter="TVSources",Арктика 24 HD
+#EXTGRP:WINK+Aрхив
+TVSources &id='arktika 24 hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Мир 24.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Мир 24" $ExtFilter="TVSources",Мир 24 HD
+#EXTGRP:WINK+Aрхив
+TVSources &id='mir 24 hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Первый областной (Орёл).png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Область 45 (Курган)" $ExtFilter="TVSources",Область 45 HD (Курган)
+#EXTGRP:WINK+Aрхив
+TVSources &id='oblast` 45 hd (kurgan)_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Губерния (Самара).png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Губерния_33" $ExtFilter="TVSources",Губерния 33 HD
+#EXTGRP:WINK+Aрхив
+TVSources &id='guberniya 33 hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/МТВ (Волгоград).png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Волгоград 24" $ExtFilter="TVSources",Волгоград-24 HD
+#EXTGRP:WINK+Aрхив
+TVSources &id='volgograd 24 hd_d0'
+#EXTINF:-1 tvg-logo="https://picon.ml/dzenzhinsk-tv.png" tvg-id="b304261c363d167f76201127d358bce2_dzenzhinsk-tv" $ExtFilter="TVSources",Дзержинск ТВ
+#EXTGRP:WINK+Aрхив
+TVSources &id='dzerzhinsk tv_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Eska Rock TV.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Ocko Expres" $ExtFilter="TVSources",Ocko Expres
+#EXTGRP:🎵 Музыкальные
+TVSources &id='ocko expres_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/ID Investigation Discovery HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_ID Investigation Discovery (Европа)" $ExtFilter="TVSources",Investigation Discovery HD
+#EXTGRP:🌏 Познавательные
+TVSources &id='investigation discovery hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/8 Канал (Новосибирск).png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_8 канал (Владивосток)" $ExtFilter="TVSources",8 канал (Владивосток)
+#EXTGRP:WINK+Aрхив
+TVSources &id='8 kanal (vladivostok)_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Белгород 24.png" tvg-id="b304261c363d167f76201127d358bce2_belgorod24" $ExtFilter="TVSources",Белгород 24
+#EXTGRP:WINK+Aрхив
+TVSources &id='belgorod 24_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Москва Доверие.png" tvg-id="b304261c363d167f76201127d358bce2_doverie" $ExtFilter="TVSources",Доверие
+#EXTGRP:WINK+Aрхив
+TVSources &id='doverie_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/НТВ-Плюс Инфоканал.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Колыма-Плюс (Магадан)" $ExtFilter="TVSources",ТВ-Колыма-Плюс HD
+#EXTGRP:WINK+Aрхив
+TVSources &id='tv kolyma plyus hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Первый российский национальный канал.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Чаваш Ен (Чебоксары)" $ExtFilter="TVSources",Национальное ТВ Чувашии
+#EXTGRP:WINK+Aрхив
+TVSources &id='naczional`noe tv chuvashii_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/MTV Rocks.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Ocko" $ExtFilter="TVSources",Ocko
+#EXTGRP:🎵 Музыкальные
+TVSources &id='ocko_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/MB-Самара.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Самара-ГИС" $ExtFilter="TVSources",Самара-24
+#EXTGRP:WINK+Aрхив
+TVSources &id='samara 24_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Продвижение.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Продвижение" $ExtFilter="TVSources",Продвижение
+#EXTGRP:WINK+Aрхив
+TVSources &id='prodvizhenie_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Первый музыкальный HD.png" tvg-id="b304261c363d167f76201127d358bce2_onemuz" $ExtFilter="TVSources",Первый Музыкальный RU HD
+#EXTGRP:🎵 Музыкальные
+TVSources &id='pervyj muzykal`nyj ru hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Якутия 24.png" tvg-id="b304261c363d167f76201127d358bce2_yakutia24" $ExtFilter="TVSources",Якутия 24
+#EXTGRP:WINK+Aрхив
+TVSources &id='yakutiya 24_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/ТНТ Music.png" tvg-id="b304261c363d167f76201127d358bce2_tnt-music" $ExtFilter="TVSources",ТНТ MUSIC
+#EXTGRP:🎵 Музыкальные
+TVSources &id='tnt music_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/ОТВ Челябинск.png" tvg-id="b304261c363d167f76201127d358bce2_otv-chelyabinsk" $ExtFilter="TVSources",ОТВ Челябинск HD
+#EXTGRP:WINK+Aрхив
+TVSources &id='otv chelyabinsk hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Мир Premium.png" $ExtFilter="TVSources",Мир Premium
+#EXTGRP:🇷🇺 Эфирные
+TVSources &id='mir premium_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Юрган (Сыктывкар).png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Юрган (Сыктывкар)" $ExtFilter="TVSources",Юрган (Сыктывкар)
+#EXTGRP:WINK+Aрхив
+TVSources &id='yurgan (syktyvkar)_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Тивиком.png" tvg-id="b304261c363d167f76201127d358bce2_tivikom" $ExtFilter="TVSources",Тивиком HD (Улан-Удэ)
+#EXTGRP:WINK+Aрхив
+TVSources &id='tivikom hd (ulan ude)_d0'
+#EXTINF:-1 tvg-logo="http://i115.fastpic.org/big/2021/0927/bf/38884eb4758ca92d209e5f2b533d28bf.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Югорск ТВ" $ExtFilter="TVSources",Югорск ТВ
+#EXTGRP:WINK+Aрхив
+TVSources &id='yugorsk tv_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Моторспорт ТВ.png" tvg-id="b304261c363d167f76201127d358bce2_sportivny" $ExtFilter="TVSources",Спортивный HD
+#EXTGRP:⛹🏿‍ Спортивные
+TVSources &id='sportivnyj hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/TMTV (Tatar Music TV).png" tvg-id="b304261c363d167f76201127d358bce2_tmtv" $ExtFilter="TVSources",TMTV
+#EXTGRP:WINK+Aрхив
+TVSources &id='tmtv_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Эфир (Казань).png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Эфир (Казань)" $ExtFilter="TVSources",Эфир (Казань)
+#EXTGRP:WINK+Aрхив
+TVSources &id='efir (kazan`)_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Русский Экстрим.png" tvg-id="b304261c363d167f76201127d358bce2_express" $ExtFilter="TVSources",Экспресс HD
+#EXTGRP:WINK+Aрхив
+TVSources &id='ekspress hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Мир 24.png" tvg-id="b304261c363d167f76201127d358bce2_mir-24" $ExtFilter="TVSources",Мир 24
+#EXTGRP:🇷🇺 Эфирные
+TVSources &id='mir 24_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Шансон ТВ.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Шансон ТВ" $ExtFilter="TVSources",Шансон ТВ
+#EXTGRP:🎵 Музыкальные
+TVSources &id='shanson tv_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Че!.png" tvg-id="b304261c363d167f76201127d358bce2_che" $ExtFilter="TVSources",Че!
+#EXTGRP:WINK+Aрхив
+TVSources &id='che!_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/В мире животных.png" tvg-id="b304261c363d167f76201127d358bce2_v-mire-zhivotnyx-hd" $ExtFilter="TVSources",В мире животных HD
+#EXTGRP:🌏 Познавательные
+TVSources &id='v mire zhivotnykh hd_d0'
+#EXTINF:-1 tvg-logo="https://picon.ml/xamdan-kalm24.png" tvg-id="b304261c363d167f76201127d358bce2_xamdan-kalm24" $ExtFilter="TVSources",Хамдан-Калмыкия 24
+#EXTGRP:WINK+Aрхив
+TVSources &id='khamdan kalmykiya 24_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Киноужас.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Ужастик" $ExtFilter="TVSources",Ужастик
+#EXTGRP:📽️ Фильмовые
+TVSources &id='uzhastik_d0'
+#EXTINF:-1 tvg-logo="https://picon.ml/tomskoe-vremia.png" tvg-id="b304261c363d167f76201127d358bce2_tomskoe-vremia" $ExtFilter="TVSources",Томское время HD
+#EXTGRP:WINK+Aрхив
+TVSources &id='tomskoe vremya hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Новый век (Тамбов).png" tvg-id="b304261c363d167f76201127d358bce2_vektor-24" $ExtFilter="TVSources",Вектор 24
+#EXTGRP:WINK+Aрхив
+TVSources &id='vektor 24_d0'
+#EXTINF:-1 tvg-logo="https://picon.ml/tolyatti24.png" tvg-id="b304261c363d167f76201127d358bce2_tolyatti24" $ExtFilter="TVSources",Тольятти 24
+#EXTGRP:WINK+Aрхив
+TVSources &id='tol`yatti 24_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Охота и Рыбалка.png" tvg-id="b304261c363d167f76201127d358bce2_rybinsk40" $ExtFilter="TVSources",Рыбинск-40
+#EXTGRP:WINK+Aрхив
+TVSources &id='rybinsk 40_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/РБК.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_РБК" $ExtFilter="TVSources",РБК
+#EXTGRP:🇷🇺 Эфирные
+TVSources &id='rbk_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Брянская губерния.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Губерния" $ExtFilter="TVSources",Губерния
+#EXTGRP:WINK+Aрхив
+TVSources &id='guberniya_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/В мире животных.png" tvg-id="b304261c363d167f76201127d358bce2_vot-tv" $ExtFilter="TVSources",ВОТтв HD
+#EXTGRP:WINK+Aрхив
+TVSources &id='vottv hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/ЮТВ (Чебоксары).png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_ЮТВ (Чебоксары)" $ExtFilter="TVSources",ЮТВ (Чебоксары)
+#EXTGRP:WINK+Aрхив
+TVSources &id='yutv (cheboksary)_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Осетия-Ирыстон.png" tvg-id="b304261c363d167f76201127d358bce2_osetia-iryston" $ExtFilter="TVSources",Осетия-Ирыстон HD
+#EXTGRP:WINK+Aрхив
+TVSources &id='osetiya iryston hd_d0'
+#EXTINF:-1 tvg-logo="http://i115.fastpic.org/big/2021/0927/25/fc4cbf6dd122518095a06a7eef075125.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_ТНР24 (Нижневартовск)" $ExtFilter="TVSources",ТНР24 (Нижневартовск)
+#EXTGRP:WINK+Aрхив
+TVSources &id='tnr24 (nizhnevartovsk)_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Первый канал HD2.png" tvg-id="b304261c363d167f76201127d358bce2_pervy-kanal-eurasia-kz" $ExtFilter="TVSources",Первый канал Евразия
+#EXTGRP:🇷🇺 Эфирные
+TVSources &id='pervyj kanal evraziya_d0'
+#EXTINF:-1 tvg-logo="https://picon.ml/objektiv-59.png" tvg-id="b304261c363d167f76201127d358bce2_objektiv-59" $ExtFilter="TVSources",Объектив 59 HD
+#EXTGRP:WINK+Aрхив
+TVSources &id='ob`ektiv 59 hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Открытый мир.png" tvg-id="b304261c363d167f76201127d358bce2_trk-ryazan" $ExtFilter="TVSources",ТКР Рязань
+#EXTGRP:WINK+Aрхив
+TVSources &id='tkr ryazan`_d0'
+#EXTINF:-1 tvg-logo="http://i115.fastpic.org/big/2021/0824/34/9d2c95ec191f22c932f468babfc3ee34.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_41 телеканал (Воронеж)" $ExtFilter="TVSources",ВТК «Аргус» HD
+#EXTGRP:WINK+Aрхив
+TVSources &id='vtk 171argus187 hd_c2'
+#EXTINF:-1 tvg-logo="http://i115.fastpic.org/big/2021/0824/53/c663e538d05d1e7a84ba7e4d253b6f53.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_41 Регион (Камчатка)" $ExtFilter="TVSources",41 Регион
+#EXTGRP:WINK+Aрхив
+TVSources &id='41 region_d0'
+#EXTINF:-1 tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Югра" $ExtFilter="TVSources",Югра ТВ
+#EXTGRP:WINK+Aрхив
+TVSources &id='yugra tv_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Дон 24.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Дон 24" $ExtFilter="TVSources",ДОН 24 HD
+#EXTGRP:WINK+Aрхив
+TVSources &id='don 24 hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Русский Экстрим.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_РИМ (Каменск-Уральский)" $ExtFilter="TVSources",РИМ (Каменск-Уральский)
+#EXTGRP:WINK+Aрхив
+TVSources &id='rim (kamensk ural`skij)_d0'
+#EXTINF:-1 tvg-logo="http://i115.fastpic.org/big/2021/0926/29/2f6d07e9c87177018b9c70036fd0e529.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Импульс (Салехард)" $ExtFilter="TVSources",Импульс HD
+#EXTGRP:WINK+Aрхив
+TVSources &id='impul`s hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Москва 24.png" tvg-id="b304261c363d167f76201127d358bce2_moskva-24" $ExtFilter="TVSources",Москва 24
+#EXTGRP:🇷🇺 Эфирные
+TVSources &id='moskva 24_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/12 канал Череповец.png" tvg-id="b304261c363d167f76201127d358bce2_reportior-73" $ExtFilter="TVSources",Репортер 73
+#EXTGRP:WINK+Aрхив
+TVSources &id='reporter 73_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Светлое тв.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Свежаки" $ExtFilter="TVSources",Свежаки
+#EXTGRP:📽️ Фильмовые
+TVSources &id='svezhaki_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Первый Метео.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_ТЕО-ТВ (Москва)" $ExtFilter="TVSources",ТЕО-ТВ HD
+#EXTGRP:WINK+Aрхив
+TVSources &id='teo tv hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Восток 24.png" tvg-id="b304261c363d167f76201127d358bce2_vostok-24" $ExtFilter="TVSources",Восток 24
+#EXTGRP:WINK+Aрхив
+TVSources &id='vostok 24_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Телепутешествия.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Телепутешествия" $ExtFilter="TVSources",Телепутешествия
+#EXTGRP:🌏 Познавательные
+TVSources &id='teleputeshestviya_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/СТС Love.png" tvg-id="b304261c363d167f76201127d358bce2_sts-love" $ExtFilter="TVSources",СТС Love
+#EXTGRP:WINK+Aрхив
+TVSources &id='sts love_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Телеканал Сельский.png" tvg-id="b304261c363d167f76201127d358bce2_football-ru" $ExtFilter="TVSources",Телеканал Футбол
+#EXTGRP:⛹🏿‍ Спортивные
+TVSources &id='telekanal futbol_d0'
+#EXTINF:-1 tvg-logo="http://i120.fastpic.org/big/2022/0529/b4/2180e0ddfd651c61b14a2267ada372b4.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Mooz Ro" $ExtFilter="TVSources",Mooz RO
+#EXTGRP:🎵 Музыкальные
+TVSources &id='mooz ro_00'
+#EXTINF:-1 tvg-logo="https://picon.ml/tv3-ru.png" tvg-id="b304261c363d167f76201127d358bce2_tv3-ru" $ExtFilter="TVSources",ТВ3 HD
+#EXTGRP:🇷🇺 Эфирные
+TVSources &id='tv3 hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Саратов 24.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Саратов 24" $ExtFilter="TVSources",Саратов-24
+#EXTGRP:WINK+Aрхив
+TVSources &id='saratov 24_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/СТВ-РЕН ТВ (Беларусь).png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_ТВ-ИН (Магнитогорск)" $ExtFilter="TVSources",ТВ-ИН-Магнитогорск HD
+#EXTGRP:WINK+Aрхив
+TVSources &id='tv in magnitogorsk hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Парк Патриот.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Арктик-ТВ (Мурманск)" $ExtFilter="TVSources",Арктик-ТВ HD
+#EXTGRP:WINK+Aрхив
+TVSources &id='arktik tv hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Radio Aurora.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Radio Rock" $ExtFilter="TVSources",Radio Шансон-ТВ
+#EXTGRP:🎵 Музыкальные
+TVSources &id='radio shanson tv_d0'
+#EXTINF:-1 tvg-logo="http://i115.fastpic.org/big/2021/0927/6e/6d27c226407a243c393bf69e3f104a6e.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Тагил ТВ" $ExtFilter="TVSources",Тагил ТВ
+#EXTGRP:WINK+Aрхив
+TVSources &id='tagil tv_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Еврокино.png" tvg-id="b304261c363d167f76201127d358bce2_evrasia" $ExtFilter="TVSources",Евразия
+#EXTGRP:WINK+Aрхив
+TVSources &id='evraziya_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/ТВ Центр.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_ТВ Центр" $ExtFilter="TVSources",ТВ Центр HD
+#EXTGRP:🇷🇺 Эфирные
+TVSources &id='tv czentr hd_d0'
+#EXTINF:-1 tvg-logo="https://picon.ml/tatarstan24.png" tvg-id="b304261c363d167f76201127d358bce2_tatarstan24" $ExtFilter="TVSources",Татарстан-24
+#EXTGRP:WINK+Aрхив
+TVSources &id='tatarstan 24_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Первый вегетарианский HD.png" tvg-id="b304261c363d167f76201127d358bce2_pervy-gorodskoy-kirov" $ExtFilter="TVSources",Первый городской (Киров)
+#EXTGRP:WINK+Aрхив
+TVSources &id='pervyj gorodskoj (kirov)_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/RU TV.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_RU TV" $ExtFilter="TVSources",RU TV
+#EXTGRP:🎵 Музыкальные
+TVSources &id='ru tv_00'
+#EXTINF:-1 tvg-logo="http://i115.fastpic.org/big/2021/0924/0d/694a7fbcc8c0e95f020b81749c45770d.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Kronehit HD" $ExtFilter="TVSources",Kronehit TV
+#EXTGRP:🎵 Музыкальные
+TVSources &id='kronehit tv_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Старт.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Старт" $ExtFilter="TVSources",Старт
+#EXTGRP:⛹🏿‍ Спортивные
+TVSources &id='start_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Ю.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Ю" $ExtFilter="TVSources",Ю
+#EXTGRP:🇷🇺 Эфирные
+TVSources &id='yu_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Russian Extreme Ultra.png" tvg-id="b304261c363d167f76201127d358bce2_russian-extreme-uhd" $ExtFilter="TVSources",Russian Extreme UHD
+#EXTGRP:WINK+Aрхив
+TVSources &id='russian extreme uhd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Сочи 24 HD.png" tvg-id="b304261c363d167f76201127d358bce2_sochi24" $ExtFilter="TVSources",Сочи24 HD
+#EXTGRP:WINK+Aрхив
+TVSources &id='sochi24 hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Travel tv (Болгария).png" tvg-id="b304261c363d167f76201127d358bce2_arig-us-24" $ExtFilter="TVSources",Ариг Ус
+#EXTGRP:WINK+Aрхив
+TVSources &id='arig us_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/БСТ.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_БСТ (Уфа)" $ExtFilter="TVSources",БСТ (Челябинск)
+#EXTGRP:WINK+Aрхив
+TVSources &id='bst (chelyabinsk)_d0'
+#EXTINF:-1 tvg-logo="http://i115.fastpic.org/big/2021/1002/05/fde1277beb92483fde49c84ce9093f05.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_ТВ21+ (Мурманск)" $ExtFilter="TVSources",ТВ21+
+#EXTGRP:WINK+Aрхив
+TVSources &id='tv21+_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Первый Тульский.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Первый Тульский" $ExtFilter="TVSources",Первый Тульский HD
+#EXTGRP:WINK+Aрхив
+TVSources &id='pervyj tul`skij hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Мир Белогорья.png" tvg-id="b304261c363d167f76201127d358bce2_mir-belogoria" $ExtFilter="TVSources",Мир Белогорья
+#EXTGRP:WINK+Aрхив
+TVSources &id='mir belogor`ya_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/MB-Самара.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Самара-ГИС" $ExtFilter="TVSources",Самара-Гис
+#EXTGRP:WINK+Aрхив
+TVSources &id='samara gis_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Русь (Кострома).png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Русь (Кострома)" $ExtFilter="TVSources",Русь (Кострома)
+#EXTGRP:WINK+Aрхив
+TVSources &id='rus` (kostroma)_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Русский север_.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Русский Север (Вологда)" $ExtFilter="TVSources",Русский Север (Вологда)
+#EXTGRP:WINK+Aрхив
+TVSources &id='russkij sever (vologda)_d0'
+#EXTINF:-1 $ExtFilter="TVSources",РТС-Абакан
+#EXTGRP:WINK+Aрхив
+TVSources &id='rts abakan_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Ника TV.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Ника ТВ (Калуга)" $ExtFilter="TVSources",Ника-ТВ
+#EXTGRP:WINK+Aрхив
+TVSources &id='nika tv_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Первый музыкальный HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Первый музыкальный" $ExtFilter="TVSources",Первый Музыкальный BY
+#EXTGRP:🎵 Музыкальные
+TVSources &id='pervyj muzykal`nyj by_d0'
+#EXTINF:-1 tvg-logo="http://i115.fastpic.org/big/2021/0927/f8/d71d49f892885f897936326f30ee8af8.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Рифей-ТВ (Пермь)" $ExtFilter="TVSources",Рифей-ТВ (Пермь)
+#EXTGRP:WINK+Aрхив
+TVSources &id='rifej tv (perm`)_d0'
+#EXTINF:-1 tvg-logo="http://i115.fastpic.org/big/2021/0927/18/18e9ad5809e070e2fff7b67073901d18.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Толк (Барнаул)" $ExtFilter="TVSources",ТОЛК (Барнаул)
+#EXTGRP:WINK+Aрхив
+TVSources &id='tolk (barnaul)_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Приключения HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Приключения HD" $ExtFilter="TVSources",Приключения
+#EXTGRP:🌏 Познавательные
+TVSources &id='priklyucheniya_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/НВК Саха.png" $ExtFilter="TVSources",НВК (Саха)
+#EXTGRP:WINK+Aрхив
+TVSources &id='nvk (sakha)_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Башкортостан 24 HD.png" tvg-id="b304261c363d167f76201127d358bce2_ort-planeta-orenburg" $ExtFilter="TVSources",ОРТ-Планета (Оренбург)
+#EXTGRP:WINK+Aрхив
+TVSources &id='ort planeta (orenburg)_d0'
+#EXTINF:-1 tvg-logo="http://i115.fastpic.org/big/2021/0824/00/ffbb73edcb648d7588091a95c49fca00.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_31 канал (Челябинск)" $ExtFilter="TVSources",31 канал (Челябинск)
+#EXTGRP:WINK+Aрхив
+TVSources &id='31 kanal (chelyabinsk)_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Backus tv.png" tvg-id="b304261c363d167f76201127d358bce2_backustv-horror" $ExtFilter="TVSources",BackusTV Страшное
+#EXTGRP:📽️ Фильмовые
+TVSources &id='backustv strashnoe_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Первый Ярославский.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Первый Ярославский" $ExtFilter="TVSources",Первый Ярославский HD
+#EXTGRP:WINK+Aрхив
+TVSources &id='pervyj yaroslavskij hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Краснодар он-лайн (Краснодар).png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Краснодар он-лайн (Краснодар)" $ExtFilter="TVSources",Краснодар HD
+#EXTGRP:WINK+Aрхив
+TVSources &id='krasnodar hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/MTV Rocks.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Ocko Star" $ExtFilter="TVSources",Ocko Star
+#EXTGRP:🎵 Музыкальные
+TVSources &id='ocko star_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Ямал-регион.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Ямал-Регион" $ExtFilter="TVSources",Ямал-Регион
+#EXTGRP:WINK+Aрхив
+TVSources &id='yamal region_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Липецкое Время.png" tvg-id="b304261c363d167f76201127d358bce2_lipeckoe-vremia" $ExtFilter="TVSources",Липецкое время HD
+#EXTGRP:WINK+Aрхив
+TVSources &id='lipeczkoe vremya hd_d0'
+#EXTINF:-1 tvg-logo="https://picon.ml/atv-stavropol.png" tvg-id="b304261c363d167f76201127d358bce2_atv-stavropol" $ExtFilter="TVSources",АТВ-Ставрополь
+#EXTGRP:WINK+Aрхив
+TVSources &id='atv stavropol`_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Катунь 24.png" tvg-id="b304261c363d167f76201127d358bce2_katun-24" $ExtFilter="TVSources",Катунь 24
+#EXTGRP:WINK+Aрхив
+TVSources &id='katun` 24_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Аист ТВ.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Аист (Иркутск)" $ExtFilter="TVSources",АИСТ HD
+#EXTGRP:WINK+Aрхив
+TVSources &id='aist hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Девятка ТВ (Киров).png" tvg-id="b304261c363d167f76201127d358bce2_deviatka" $ExtFilter="TVSources",Девятка ТВ
+#EXTGRP:WINK+Aрхив
+TVSources &id='devyatka tv_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Башкортостан 24.png" tvg-id="b304261c363d167f76201127d358bce2_bashkortostan24" $ExtFilter="TVSources",Башкортостан 24
+#EXTGRP:WINK+Aрхив
+TVSources &id='bashkortostan 24_d0'
+#EXTINF:-1 tvg-logo="http://i120.fastpic.org/big/2022/0529/ea/5fb85d7fb1fd56b309f94e18a9cc11ea.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Mooz Dance" $ExtFilter="TVSources",Mooz Dance
+#EXTGRP:🎵 Музыкальные
+TVSources &id='mooz dance_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Волгоград 1.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Волгоград 1" $ExtFilter="TVSources",Волгоград 1 HD
+#EXTGRP:WINK+Aрхив
+TVSources &id='volgograd 1 hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Прибой.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Прима (Красноярск)" $ExtFilter="TVSources",Прима-ТВ
+#EXTGRP:WINK+Aрхив
+TVSources &id='prima tv_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Волга (Н. Новгород).png" tvg-id="b304261c363d167f76201127d358bce2_vremia-n" $ExtFilter="TVSources",Волга 24
+#EXTGRP:WINK+Aрхив
+TVSources &id='volga 24_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Своё ТВ (Ставрополь).png" tvg-id="b304261c363d167f76201127d358bce2_svoyo-tv-stavropol" $ExtFilter="TVSources",Своё ТВ Ставрополь HD
+#EXTGRP:WINK+Aрхив
+TVSources &id='svoyo tv stavropol` hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/С1 (Сургут).png" tvg-id="b304261c363d167f76201127d358bce2_surgut-24" $ExtFilter="TVSources",Сургут 24
+#EXTGRP:WINK+Aрхив
+TVSources &id='surgut 24_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Известия HD.png" tvg-id="b304261c363d167f76201127d358bce2_izvestia" $ExtFilter="TVSources",Известия HD
+#EXTGRP:🇷🇺 Эфирные
+TVSources &id='izvestiya hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Первый областной (Орёл).png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Первый областной (Орел)" $ExtFilter="TVSources",Первый областной
+#EXTGRP:WINK+Aрхив
+TVSources &id='pervyj oblastnoj_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Первый музыкальный HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Первый музыкальный" $ExtFilter="TVSources",Первый Музыкальный BY HD
+#EXTGRP:🎵 Музыкальные
+TVSources &id='pervyj muzykal`nyj by hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Ростов-папа (Ростов-на-дону).png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Ростов-папа (Ростов)" $ExtFilter="TVSources",Ростов-папа HD
+#EXTGRP:WINK+Aрхив
+TVSources &id='rostov papa hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Ямал-регион.png" tvg-id="b304261c363d167f76201127d358bce2_region29" $ExtFilter="TVSources",Регион 29
+#EXTGRP:WINK+Aрхив
+TVSources &id='region 29_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Вопросы и ответы.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Ветта-24 (Пермь)" $ExtFilter="TVSources",Ветта 24 (Пермь)
+#EXTGRP:WINK+Aрхив
+TVSources &id='vetta 24 (perm`)_d0'
+#EXTINF:-1 tvg-logo="http://i115.fastpic.org/big/2021/0824/9e/1890863577b5ca3f2de3db487839689e.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_6 ТВ (Хабаровск)" $ExtFilter="TVSources",6 ТВ (Хабаровск)
+#EXTGRP:WINK+Aрхив
+TVSources &id='6 tv (khabarovsk)_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Настоящее страшное ТВ.png" tvg-id="b304261c363d167f76201127d358bce2_nst" $ExtFilter="TVSources",Настоящее страшное ТВ
+#EXTGRP:📽️ Фильмовые
+TVSources &id='nastoyashhee strashnoe tv_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Вопросы и ответы.png" $ExtFilter="TVSources",ОТВ-Владивосток
+#EXTGRP:WINK+Aрхив
+TVSources &id='otv vladivostok_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/РЖД ТВ.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_РЖД ТВ" $ExtFilter="TVSources",РЖД ТВ HD
+#EXTGRP:🇷🇺 Эфирные
+TVSources &id='rzhd tv hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/НТС ТВ Севастополь.png" tvg-id="b304261c363d167f76201127d358bce2_nts-irkutsk" $ExtFilter="TVSources",НТС Иркутск
+#EXTGRP:WINK+Aрхив
+TVSources &id='nts irkutsk_d0'
+#EXTINF:-1 tvg-logo="http://i115.fastpic.org/big/2021/0927/a0/464f405aa8e718edf417491231f898a0.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_МИГ ТВ (Ноябрьск)" $ExtFilter="TVSources",Миг ТВ
+#EXTGRP:WINK+Aрхив
+TVSources &id='mig tv_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Первый областной (Орёл).png" tvg-id="b304261c363d167f76201127d358bce2_pervy-gorodskoy-omsk" $ExtFilter="TVSources",Первый городской (Омск)
+#EXTGRP:WINK+Aрхив
+TVSources &id='pervyj gorodskoj (omsk)_d0'
+#EXTINF:-1 tvg-logo="http://i120.fastpic.org/big/2022/0730/d6/3ed3cb84803a480561081a98579fbed6.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_RITSA TV HD" $ExtFilter="TVSources",RITSA TV
+#EXTGRP:🎵 Музыкальные
+TVSources &id='ritsa tv_00'
+#EXTINF:-1 tvg-logo="http://i115.fastpic.org/big/2021/0926/79/26163ebc354216f81a92fdef30d56f79.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Афонтово (Красноярск)" $ExtFilter="TVSources",Афонтово HD
+#EXTGRP:WINK+Aрхив
+TVSources &id='afontovo hd_d0'
+#EXTINF:-1 tvg-logo="https://picon.ml/kavkaz24.png" tvg-id="b304261c363d167f76201127d358bce2_kavkaz24" $ExtFilter="TVSources",Кавказ 24
+#EXTGRP:WINK+Aрхив
+TVSources &id='kavkaz 24_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/VivaL' Italia Channel.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Viva Russia" $ExtFilter="TVSources",VIVA TV
+#EXTGRP:🎵 Музыкальные
+TVSources &id='viva tv_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Брянская губерния.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Брянская Губерния" $ExtFilter="TVSources",Брянская Губерния HD
+#EXTGRP:WINK+Aрхив
+TVSources &id='bryanskaya guberniya hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Пятница! HD.png" tvg-id="b304261c363d167f76201127d358bce2_piatnica" $ExtFilter="TVSources",Пятница! HD
+#EXTGRP:🇷🇺 Эфирные
+TVSources &id='pyatnicza! hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Нижний Новгород 24 (Нижний Новгород).png" tvg-id="b304261c363d167f76201127d358bce2_novgorodskoe-obl-tv" $ExtFilter="TVSources",Новгородское областное телевидение
+#EXTGRP:WINK+Aрхив
+TVSources &id='novgorodskoe oblastnoe televidenie_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Камеди.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Камчатка (Петропавловск-Камчатский)" $ExtFilter="TVSources",Камчатка HD
+#EXTGRP:WINK+Aрхив
+TVSources &id='kamchatka hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Карусель.png" tvg-id="b304261c363d167f76201127d358bce2_selenga-tv" $ExtFilter="TVSources",Селенга-ТВ
+#EXTGRP:WINK+Aрхив
+TVSources &id='selenga tv_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/12 канал Омск.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_12 канал (Омск)" $ExtFilter="TVSources",12 канал HD
+#EXTGRP:WINK+Aрхив
+TVSources &id='12 kanal hd_00'
