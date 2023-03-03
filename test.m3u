@@ -1,0 +1,415 @@
+#EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="СПОРТ" tvg-logo="https://karnei4.github.io/convert/logo-z/ee15d61ec2b8c3ee5853bb4509da6577.png" tvg-id="Матч ТВ",Матч ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://iptv.ktkru.ru:8003/index.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="СПОРТ" tvg-logo="https://karnei4.github.io/convert/logo-z/ee15d61ec2b8c3ee5853bb4509da6577.png" tvg-id="Матч БОЕЦ",Матч Боец
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://50.7.92.90/Match_Boets/mono.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Детские" tvg-logo="https://karnei4.github.io/convert/logo-z/31809f1d64e040ec99ba9c579306301c.png" tvg-id="Карусель",Карусель
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Детские" tvg-logo="https://karnei4.github.io/convert/logo-z/beb2f756442508c361f6fd37fc232edc.png" tvg-id="Карусель (+2)",Карусель (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://rt-ural-chel-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_KARUSEL_CHEL/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Детские" tvg-logo="https://karnei4.github.io/convert/logo-z/cae25d0d3e03ec7686cfa546cd2f6b8a.png" tvg-id="Карусель (+4)",Карусель (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="../Channel/Logo/Весёлая карусель.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Карусель",Карусель (+4)
+#EXTGRP:Новосибирск
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Весёлая карусель.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Карусель (+4)" $ExtFilter="TVSources",Карусель (+4)
+#EXTGRP:Новосибирск
+TVSources &id='karusel` (+4)_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Amedia Hit.png" tvg-id="b304261c363d167f76201127d358bce2_amedia-hit" $ExtFilter="TVSources",Amedia Hit
+#EXTGRP:Фильмы
+TVSources &id='amedia hit_00'
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Детские" tvg-logo="https://karnei4.github.io/convert/logo-z/d2d07895245d4638621146511261e55f.png" tvg-id="Карусель (+7)",Карусель (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Музыка" tvg-logo="https://karnei4.github.io/convert/logo-z/0a66abc2ec39105d706f3b361f67b5fc.png" tvg-id="Муз ТВ",Муз ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/897.png" tvg-id="b304261c363d167f76201127d358bce2_muztv" $ExtFilter="Камеры",Муз ТВ
+#EXTGRP:🎵 Музыкальные
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Муз ТВ.png" tvg-id="b304261c363d167f76201127d358bce2_muztv" $ExtFilter="TVSources",Муз ТВ
+#EXTGRP:🎵 Музыкальные
+TVSources &id='muz tv_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Мир.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_МИР" $ExtFilter="TVSources",Мир
+#EXTGRP:WINK+Aрхив
+TVSources &id='mir_d0'
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="4K Каналы" tvg-logo="https://karnei4.github.io/convert/logo-z/5f294633b54e0703b8f1be45988d3e80.png" tvg-id="Наша Сибирь 4K",Наша Сибирь 4K
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="../Channel/Logo/Наша сибирь.png" tvg-id="b304261c363d167f76201127d358bce2_nasha-sibir-4k",Наша Сибирь 4K
+#EXTGRP:4K
+https://tv24h/3927/stream?access_token=60e7bd6049f70cfffe0dee01fff89569593128d5
+#EXTINF:-1 tvg-logo="../Channel/Logo/Наша сибирь.png" tvg-id="b304261c363d167f76201127d358bce2_nasha-sibir-4k" $ExtFilter="TVSources",Наша Сибирь 4K
+#EXTGRP:4K
+TVSources &id='nasha sibir` 4k_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/vip premiere.png" tvg-id="b304261c363d167f76201127d358bce2_vip-premiere" $ExtFilter="TVSources",VIP Premiere
+#EXTGRP:Фильмы
+TVSources &id='vip premiere_00'
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-logo="https://karnei4.github.io/convert/logo-z/fdf100fb4e0cddada1e753af3b26f6b0.png" tvg-id="Пятница! (+2)",Пятница! (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://rt-ural-chel-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_FRIDAY_URAL/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-logo="https://karnei4.github.io/convert/logo-z/e889d560eefa2006f17a2f073c879e10.png" tvg-id="Пятница! (+4)",Пятница! (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="../Channel/Logo/Пятница! HD.png" tvg-id="b304261c363d167f76201127d358bce2_piatnica",Пятница! (+4)
+#EXTGRP:Новосибирск
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Пятница! HD.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Пятница! (+4)" $ExtFilter="TVSources",Пятница! (+4)
+#EXTGRP:Новосибирск
+TVSources &id='pyatnicza! (+4)_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Страна.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Матч! Страна" $ExtFilter="TVSources",Матч! Страна HD
+#EXTGRP:Матч
+TVSources &id='match! strana hd_d0'
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-logo="https://karnei4.github.io/convert/logo-z/04fbc8829fa8cb451a8af03ad716ada4.png" tvg-id="Пятница! (+7)",Пятница! (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-logo="https://karnei4.github.io/convert/logo-z/5991293f57a851f83ec8cc0578a1e19f.png" tvg-id="ТНТ (+7)",ТНТ (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-logo="https://karnei4.github.io/convert/logo-z/91903a582ab237b70ce7404601b7cf6f.png" tvg-id="ТНТ4",ТНТ4
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-logo="https://karnei4.github.io/convert/logo-z/08cd6c75c30fb04baa26485a3975a2e5.png" tvg-id="ТНТ4 (+2)",ТНТ4 (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-logo="https://karnei4.github.io/convert/logo-z/f9bb3e3fd1c144f86375bdda3b29637e.png" tvg-id="ТНТ4 (+4)",ТНТ4 (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-logo="https://karnei4.github.io/convert/logo-z/6393cc0766b8cf7959ec726d271dc453.png" tvg-id="ТНТ4 (+7)",ТНТ4 (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-logo="https://karnei4.github.io/convert/logo-z/70456e5cd901f634f6805c94c61094a8.png" tvg-id="Че",Че
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1598.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Че" $ExtFilter="Камеры",Че
+#EXTGRP:WINK+Aрхив
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-logo="https://karnei4.github.io/convert/logo-z/6857b8d5629bb52da7818c2cec2b65cf.png" tvg-id="Че (+7)",Че (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-logo="https://karnei4.github.io/convert/logo-z/6134eef97b82d553a7ba4a1ecaca1fde.png" tvg-id="Ю",Ю
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/898.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Ю" $ExtFilter="Камеры",Ю
+#EXTGRP:🇷🇺 Эфирные
+http://flu.ttk.mx:9090/U/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-logo="../Channel/Logo/Ю.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Ю" $ExtFilter="Камеры",Ю
+#EXTGRP:WINK+Aрхив
+https://s91412.cdn.ngenix.net/mdrm/CH_U/variant.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Ю.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Ю" $ExtFilter="TVSources",Ю
+#EXTGRP:🇷🇺 Эфирные
+TVSources &id='yu_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Russian Extreme Ultra.png" tvg-id="b304261c363d167f76201127d358bce2_russian-extreme-uhd" $ExtFilter="TVSources",Russian Extreme UHD
+#EXTGRP:WINK+Aрхив
+TVSources &id='russian extreme uhd_00'
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-logo="https://karnei4.github.io/convert/logo-z/612e47f09dc27a404276e906136bd81b.png" tvg-id="Ю (+2)",Ю (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://rt-ural-chel-htlive-lb.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-logo="https://karnei4.github.io/convert/logo-z/aad33e2edfe8489810b2edbeb14c6da7.png" tvg-id="Ю (+4)",Ю (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-logo="https://karnei4.github.io/convert/logo-z/b2748e34abd4a265cef7aff778b0f0b1.png" tvg-id="Ю (+7)",Ю (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="../Channel/Logo/Eurosport 1.png" tvg-id="b304261c363d167f76201127d358bce2_eurosport1",Eurosport 1
+#EXTGRP:Матч
+http://only-tv.org/eurosport.html
+#EXTINF:-1 tvg-logo="../Channel/Logo/Eurosport 1.png" tvg-id="b304261c363d167f76201127d358bce2_eurosport1" $ExtFilter="TVSources",Eurosport 1
+#EXTGRP:Матч
+TVSources &id='eurosport 1_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="b304261c363d167f76201127d358bce2_rossia1-pl4" $ExtFilter="TVSources",Россия 1 (+4)
+#EXTGRP:Новосибирск
+TVSources &id='rossiya 1 (+4)_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Eurosport 1 HD.png" tvg-id="b304261c363d167f76201127d358bce2_eurosport1",Eurosport 1 HD
+#EXTGRP:Матч
+https://www.voka.tv/d7043c48-5fe9-426f-bf28-a7ed1f8d61d5
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2052.png" tvg-id="b304261c363d167f76201127d358bce2_eurosport1" $ExtFilter="Камеры",Eurosport 1 HD
+#EXTGRP:⛹🏿‍ Спортивные
+https://livetv.mylifeisgood.ml/channels/eurosport1ru
+#EXTINF:-1 tvg-logo="../Channel/Logo/Eurosport 1 HD.png" tvg-id="b304261c363d167f76201127d358bce2_eurosport1" $ExtFilter="TVSources",Eurosport 1 HD
+#EXTGRP:Матч
+TVSources &id='eurosport 1 hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Первый канал HD2.png" tvg-id="b304261c363d167f76201127d358bce2_pervy-pl1" $ExtFilter="TVSources",Первый канал (+1)
+#EXTGRP:Федеральные
+TVSources &id='pervyj kanal (+1)_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Eurosport 2 HD.png" tvg-id="b304261c363d167f76201127d358bce2_eurosport2",Eurosport 2 HD
+#EXTGRP:Матч
+http://starnet-md.EUROSPORT2HD_H264&amp;tshift=true
+#EXTINF:-1 tvg-logo="../Channel/Logo/Eurosport 2 HD.png" tvg-id="b304261c363d167f76201127d358bce2_eurosport2",Eurosport 2 HD
+#EXTGRP:Матч
+http://only-tv.org/eurosport-2.html
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4313.png" tvg-id="b304261c363d167f76201127d358bce2_eurosport2" $ExtFilter="Камеры",Eurosport 2 HD
+#EXTGRP:⛹🏿‍ Спортивные
+https://livetv.mylifeisgood.ml/channels/eurosport2
+#EXTINF:-1 tvg-logo="../Channel/Logo/Eurosport 2 HD.png" tvg-id="b304261c363d167f76201127d358bce2_eurosport2" $ExtFilter="TVSources",Eurosport 2 HD
+#EXTGRP:Матч
+TVSources &id='eurosport 2 hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/ZooПарк.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Zooпарк" $ExtFilter="TVSources",Zooпарк
+#EXTGRP:Познавательные
+TVSources &id='zoopark_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/KHL.png" tvg-id="b304261c363d167f76201127d358bce2_kxl",KHL
+#EXTGRP:Матч
+http://bluepoint/3307?archive=true
+#EXTINF:-1 tvg-logo="../Channel/Logo/KHL.png" tvg-id="b304261c363d167f76201127d358bce2_kxl" $ExtFilter="TVSources",KHL
+#EXTGRP:Матч
+TVSources &id='khl_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Sony Channel.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_• red" $ExtFilter="TVSources",Sony Channel
+#EXTGRP:Фильмы
+TVSources &id='sony channel_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/KHL PRIME.png" tvg-id="b304261c363d167f76201127d358bce2_kxl-hd",KHL Prime
+#EXTGRP:Матч
+https://sc.id-tv.kz:443/FHD_KHL_34_35.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/KHL PRIME.png" tvg-id="b304261c363d167f76201127d358bce2_kxl-hd" $ExtFilter="TVSources",KHL Prime
+#EXTGRP:Матч
+TVSources &id='khl prime_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Русский бестселлер.png" tvg-id="b304261c363d167f76201127d358bce2_russky-bestseller" $ExtFilter="TVSources",Русский бестселлер
+#EXTGRP:Фильмы
+TVSources &id='russkij bestseller_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Setanta Sports 1.png" tvg-id="b304261c363d167f76201127d358bce2_setanta-sports",Setanta Sports 1 HD
+#EXTGRP:Матч
+http://starnet-md.SETANTA_HD_H264
+#EXTINF:-1 tvg-logo="../Channel/Logo/Setanta Sports 1.png" tvg-id="b304261c363d167f76201127d358bce2_setanta-sports" $ExtFilter="TVSources",Setanta Sports 1 HD
+#EXTGRP:Матч
+TVSources &id='setanta sports 1 hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/KHL.png" tvg-id="b304261c363d167f76201127d358bce2_kxl" $ExtFilter="TVSources",KHL
+#EXTGRP:Матч
+TVSources &id='khl_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Setanta Sports 2.png" tvg-id="b304261c363d167f76201127d358bce2_setanta-sports-plus",Setanta Sports 2 HD
+#EXTGRP:Матч
+http://only-tv.org/setanta-sports-2.html
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2813.png" tvg-id="b304261c363d167f76201127d358bce2_setanta-sports-plus" $ExtFilter="Камеры",Setanta Sports 2 HD
+#EXTGRP:⛹🏿‍ Спортивные
+https://livetv.mylifeisgood.ml/channels/setantaplus
+#EXTINF:-1 tvg-logo="../Channel/Logo/Setanta Sports 2.png" tvg-id="b304261c363d167f76201127d358bce2_setanta-sports-plus" $ExtFilter="TVSources",Setanta Sports 2 HD
+#EXTGRP:Матч
+TVSources &id='setanta sports 2 hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/ТНТ Music.png" tvg-id="b304261c363d167f76201127d358bce2_tnt-pl2" $ExtFilter="TVSources",ТНТ (+1)
+#EXTGRP:Федеральные
+TVSources &id='tnt (+1)_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Viasat Sport.png" tvg-id="b304261c363d167f76201127d358bce2_viasat-sport",Viasat Sport
+#EXTGRP:Матч
+https://sc.id-tv.kz:443/ViasatSport_34_35.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Viasat Sport.png" tvg-id="b304261c363d167f76201127d358bce2_viasat-sport" $ExtFilter="TVSources",Viasat Sport
+#EXTGRP:Матч
+TVSources &id='viasat sport_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Соловьёвlive.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_СОЛОВЬЁВLIVE" $ExtFilter="TVSources",Соловьёв Live
+#EXTGRP:Общие
+TVSources &id='solov`yov live_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Viasat Sport HD.png" tvg-id="b304261c363d167f76201127d358bce2_viasat-sport" is-favorite="1",Viasat Sport HD
+#EXTGRP:Матч
+http://starnet-md.VIASAT_SPORTHD_H264
+#EXTINF:-1 tvg-logo="../Channel/Logo/Viasat Sport HD.png" tvg-id="b304261c363d167f76201127d358bce2_viasat-sport" $ExtFilter="TVSources" is-favorite="1",Viasat Sport HD
+#EXTGRP:Матч
+TVSources &id='viasat sport hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Комедия.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Комедия" $ExtFilter="TVSources" is-favorite="1",Комедия
+#EXTGRP:Фильмы
+TVSources &id='komediya_d0'
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2004.png" tvg-id="b304261c363d167f76201127d358bce2_viasat-sport" $ExtFilter="Камеры" is-favorite="1",Viasat Sport HD
+#EXTGRP:⛹🏿‍ Спортивные
+http://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Eurosport 2 HD.png" tvg-id="b304261c363d167f76201127d358bce2_eurosport2",Eurosport 2 HD
+#EXTGRP:Матч
+http://starnet-md.EUROSPORT2HD_H264&amp;tshift=true
+#EXTINF:-1 tvg-logo="../Channel/Logo/Eurosport 2 HD.png" tvg-id="b304261c363d167f76201127d358bce2_eurosport2",Eurosport 2 HD
+#EXTGRP:Матч
+http://only-tv.org/eurosport-2.html
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/4313.png" tvg-id="b304261c363d167f76201127d358bce2_eurosport2" $ExtFilter="Камеры",Eurosport 2 HD
+#EXTGRP:⛹🏿‍ Спортивные
+https://livetv.mylifeisgood.ml/channels/eurosport2
+#EXTINF:-1 tvg-logo="../Channel/Logo/Eurosport 2 HD.png" tvg-id="b304261c363d167f76201127d358bce2_eurosport2" $ExtFilter="TVSources",Eurosport 2 HD
+#EXTGRP:Матч
+TVSources &id='eurosport 2 hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/ZooПарк.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Zooпарк" $ExtFilter="TVSources",Zooпарк
+#EXTGRP:Познавательные
+TVSources &id='zoopark_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Планета.png" tvg-id="b304261c363d167f76201127d358bce2_match-planeta",МАТЧ! Планета
+#EXTGRP:Матч
+https://www.voka.tv/570743eb-2d7f-4aa9-b5f5-e6d7ba6a60ac
+#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Планета.png" tvg-id="b304261c363d167f76201127d358bce2_match-planeta" $ExtFilter="TVSources",МАТЧ! Планета
+#EXTGRP:Матч
+TVSources &id='match! planeta_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Zee TV.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Zee TV" $ExtFilter="TVSources",Zee TV HD
+#EXTGRP:Индия
+TVSources &id='zee tv hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Боец.png" tvg-id="b304261c363d167f76201127d358bce2_match-boets",Матч! Боец
+#EXTGRP:Матч
+http://only-tv.org/match-boets.html
+#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Боец.png" tvg-id="b304261c363d167f76201127d358bce2_match-boets",Матч! Боец
+#EXTGRP:Матч
+http://bluepoint/3316?archive=true
+#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Боец.png" tvg-id="b304261c363d167f76201127d358bce2_match-boets" $ExtFilter="TVSources",Матч! Боец
+#EXTGRP:Матч
+TVSources &id='match! boecz_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Время.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_ВРЕМЯ" $ExtFilter="TVSources",Время
+#EXTGRP:Познавательные
+TVSources &id='vremya_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Арена.png" tvg-id="b304261c363d167f76201127d358bce2_match-arena" is-favorite="1",Матч! Арена
+#EXTGRP:Матч
+http://bluepoint/3308?archive=true
+#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Арена.png" tvg-id="b304261c363d167f76201127d358bce2_match-arena" $ExtFilter="TVSources" is-favorite="1",Матч! Арена
+#EXTGRP:Матч
+TVSources &id='match! arena_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Мир Баскетбола.png" tvg-id="b304261c363d167f76201127d358bce2_mir-basketbola" $ExtFilter="TVSources" is-favorite="1",Мир Баскетбола
+#EXTGRP:Спорт
+TVSources &id='mir basketbola_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Боец.png" tvg-id="b304261c363d167f76201127d358bce2_match-boets",Матч! Боец
+#EXTGRP:Матч
+http://only-tv.org/match-boets.html
+#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Боец.png" tvg-id="b304261c363d167f76201127d358bce2_match-boets",Матч! Боец
+#EXTGRP:Матч
+http://bluepoint/3316?archive=true
+#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Боец.png" tvg-id="b304261c363d167f76201127d358bce2_match-boets" $ExtFilter="TVSources",Матч! Боец
+#EXTGRP:Матч
+TVSources &id='match! boecz_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Время.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_ВРЕМЯ" $ExtFilter="TVSources",Время
+#EXTGRP:Познавательные
+TVSources &id='vremya_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Игра.png" tvg-id="b304261c363d167f76201127d358bce2_match-igra",Матч! Игра
+#EXTGRP:Матч
+http://bluepoint/3315?archive=true
+#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Игра.png" tvg-id="b304261c363d167f76201127d358bce2_match-igra" $ExtFilter="TVSources",Матч! Игра
+#EXTGRP:Матч
+TVSources &id='match! igra_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Zee TV.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Zee TV" $ExtFilter="TVSources",Zee TV
+#EXTGRP:Индия
+TVSources &id='zee tv_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Планета.png" tvg-id="b304261c363d167f76201127d358bce2_match-planeta",Матч! Планета
+#EXTGRP:Матч
+http://starnet-md.MATCH_PLANETA_H264
+#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Премьер.png" tvg-id="b304261c363d167f76201127d358bce2_match-premier",Матч! Премьер
+#EXTGRP:Матч
+http://bluepoint/3313?archive=true
+#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Премьер.png" tvg-id="b304261c363d167f76201127d358bce2_match-premier" $ExtFilter="TVSources",Матч! Премьер
+#EXTGRP:Матч
+TVSources &id='match! prem`er_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Sony Sci-Fi.png" tvg-id="b304261c363d167f76201127d358bce2_sony-scifi" $ExtFilter="TVSources",Sony Sci-Fi
+#EXTGRP:Фильмы
+TVSources &id='sony sci fi_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Премьер HD.png" tvg-id="b304261c363d167f76201127d358bce2_match-premier",Матч! Премьер HD
+#EXTGRP:Матч
+https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Премьер HD.png" tvg-id="b304261c363d167f76201127d358bce2_match-premier" $ExtFilter="TVSources",Матч! Премьер HD
+#EXTGRP:Матч
+TVSources &id='match! prem`er hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Viasat explore HD.png" tvg-id="b304261c363d167f76201127d358bce2_viasat-explore" $ExtFilter="TVSources",Viasat Explore HD
+#EXTGRP:Познавательные
+TVSources &id='viasat explore hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Страна.png" tvg-id="b304261c363d167f76201127d358bce2_match-nash-sport",Матч! Страна
+#EXTGRP:Матч
+http://bluepoint/3314?archive=true
+#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Страна.png" tvg-id="b304261c363d167f76201127d358bce2_match-nash-sport" $ExtFilter="TVSources",Матч! Страна
+#EXTGRP:Матч
+TVSources &id='match! strana_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Наша сибирь.png" tvg-id="b304261c363d167f76201127d358bce2_nasha-sibir-4k" $ExtFilter="TVSources",Наша Сибирь 4K HD
+#EXTGRP:Новосибирск
+TVSources &id='nasha sibir` 4k hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Страна.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Матч!_Страна",Матч! Страна HD
+#EXTGRP:Матч
+https://bl.uma.media/live/291661/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Страна.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_Матч! Страна" $ExtFilter="TVSources",Матч! Страна HD
+#EXTGRP:Матч
+TVSources &id='match! strana hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/CGTN Русский.png" tvg-id="cbd11b7ce91cfa7aee256ef36ae94c8c_CGTN Русский" $ExtFilter="TVSources",CGTN Русский
+#EXTGRP:Фильмы
+TVSources &id='cgtn russkij_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! ТВ.png" tvg-id="b304261c363d167f76201127d358bce2_match-tv" is-favorite="1",Матч! ТВ
+#EXTGRP:Матч
+https://tv24h/3948/stream?access_token=60e7bd6049f70cfffe0dee01fff89569593128d5
+#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! ТВ.png" tvg-id="b304261c363d167f76201127d358bce2_match-tv" $ExtFilter="TVSources" is-favorite="1",Матч! ТВ
+#EXTGRP:Матч
+TVSources &id='match! tv_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Viasat Sport HD.png" tvg-id="b304261c363d167f76201127d358bce2_viasat-sport" $ExtFilter="TVSources" is-favorite="1",Viasat Sport HD
+#EXTGRP:Матч
+TVSources &id='viasat sport hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! ТВ HD.png" tvg-id="b304261c363d167f76201127d358bce2_match-tv" is-favorite="1",Матч! ТВ HD
+#EXTGRP:Матч
+https://bl.uma.media/live/407384/HLS_R/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1648964441/a92515005e4870492ca5087ece660ea9/playlist.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! ТВ HD.png" tvg-id="b304261c363d167f76201127d358bce2_match-tv" $ExtFilter="TVSources" is-favorite="1",Матч! ТВ HD
+#EXTGRP:Матч
+TVSources &id='match! tv hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Арена.png" tvg-id="b304261c363d167f76201127d358bce2_match-arena" $ExtFilter="TVSources" is-favorite="1",Матч! Арена
+#EXTGRP:Матч
+TVSources &id='match! arena_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Футбол 1 HD.png" tvg-id="b304261c363d167f76201127d358bce2_match-football1",Матч! Футбол 1 HD
+#EXTGRP:Матч
+http://bluepoint/3310?archive=true
+#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Футбол 1 HD.png" tvg-id="b304261c363d167f76201127d358bce2_match-football1" $ExtFilter="TVSources",Матч! Футбол 1 HD
+#EXTGRP:Матч
+TVSources &id='match! futbol 1 hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/HD Life.png" tvg-id="b304261c363d167f76201127d358bce2_hd-life" $ExtFilter="TVSources",HD Life
+#EXTGRP:Познавательные
+TVSources &id='hd life_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Футбол 2 HD.png" tvg-id="b304261c363d167f76201127d358bce2_match-football2",Матч! Футбол 2 HD
+#EXTGRP:Матч
+http://bluepoint/3311?archive=true
+#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Футбол 2 HD.png" tvg-id="b304261c363d167f76201127d358bce2_match-football2" $ExtFilter="TVSources",Матч! Футбол 2 HD
+#EXTGRP:Матч
+TVSources &id='match! futbol 2 hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/.sci-fi.png" tvg-id="b304261c363d167f76201127d358bce2_sony-scifi" $ExtFilter="TVSources",.sci-fi
+#EXTGRP:Фильмы
+TVSources &id='.sci fi_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Диалоги о рыбалке.png" tvg-id="b304261c363d167f76201127d358bce2_dialogi-o-rybalke",Диалоги о Рыбалке
+#EXTGRP:Мужские
+http://api.peers.tv/timeshift/dialogi_o_rybalke/16/playlist.m3u8?offset=1
+#EXTINF:-1 tvg-logo="../Channel/Logo/Диалоги о рыбалке.png" tvg-id="b304261c363d167f76201127d358bce2_dialogi-o-rybalke" $ExtFilter="TVSources",Диалоги о Рыбалке
+#EXTGRP:Мужские
+TVSources &id='dialogi o rybalke_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/НТВ HD.png" tvg-id="b304261c363d167f76201127d358bce2_ntv" $ExtFilter="TVSources",НТВ HD
+#EXTGRP:Федеральные
+TVSources &id='ntv hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Диалоги о рыбалке.png" tvg-id="b304261c363d167f76201127d358bce2_dialogi-o-rybalke",Диалоги о рыбалке
+#EXTGRP:Мужские
+https://infolink/10352
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2627.png" tvg-id="b304261c363d167f76201127d358bce2_dialogi-o-rybalke" $ExtFilter="Камеры",Диалоги о рыбалке
+#EXTGRP:🌏 Познавательные
+http://hls.peers.tv/streaming/dialogi_o_rybalke/16/vh1w/playlist.m3u8?token=d680c0c502834299a358e0c1783e9f94&client=97
+#EXTINF:-1 tvg-logo="../Channel/Logo/Дикая рыбалка HD.png" tvg-id="b304261c363d167f76201127d358bce2_dikaya-rybalka-hd",Дикая рыбалка HD
+#EXTGRP:Мужские
+http://starnet-md.DIKAYARIBALKA_H264
+#EXTINF:-1 tvg-logo="../Channel/Logo/Дикая рыбалка HD.png" tvg-id="b304261c363d167f76201127d358bce2_dikaya-rybalka-hd" $ExtFilter="TVSources",Дикая рыбалка HD
+#EXTGRP:Мужские
+TVSources &id='dikaya rybalka hd_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/TERRA.png" tvg-id="34cf6aa19cd3081306323dd1ef68cf4c_Terra" $ExtFilter="TVSources",TERRA
+#EXTGRP:Познавательные
+TVSources &id='terra_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Драйв.png" tvg-id="b304261c363d167f76201127d358bce2_drive",Драйв
+#EXTGRP:Мужские
+http://starnet-md.DRAIV_H264
+#EXTINF:-1 tvg-logo="../Channel/Logo/Драйв.png" tvg-id="b304261c363d167f76201127d358bce2_drive" $ExtFilter="TVSources",Драйв
+#EXTGRP:Мужские
+TVSources &id='drajv_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/History HD.png" tvg-id="b304261c363d167f76201127d358bce2_history-ru" $ExtFilter="TVSources",History HD
+#EXTGRP:Познавательные
+TVSources &id='history hd_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Охота и Рыбалка.png" tvg-id="b304261c363d167f76201127d358bce2_oxota-i-rybalka",Охота и рыбалка
+#EXTGRP:Мужские
+http://bluepoint/3254?archive=true
+#EXTINF:-1 tvg-logo="../Channel/Logo/Охота и Рыбалка.png" tvg-id="b304261c363d167f76201127d358bce2_oxota-i-rybalka" $ExtFilter="TVSources",Охота и рыбалка
+#EXTGRP:Мужские
+TVSources &id='okhota i rybalka_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Eurosport 1.png" tvg-id="b304261c363d167f76201127d358bce2_eurosport1" $ExtFilter="TVSources",Eurosport 1
+#EXTGRP:Матч
+TVSources &id='eurosport 1_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Охотник и рыболов.png" tvg-id="b304261c363d167f76201127d358bce2_oxotnik-i-rybolov",Охотник и рыболов
+#EXTGRP:Мужские
+http://only-tv.org/okhotnik-i-rybolov.html
+#EXTINF:-1 tvg-logo="../Channel/Logo/Охотник и рыболов.png" tvg-id="b304261c363d167f76201127d358bce2_oxotnik-i-rybolov" $ExtFilter="TVSources",Охотник и рыболов
+#EXTGRP:Мужские
+TVSources &id='okhotnik i rybolov_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Galaxy.png" tvg-id="b304261c363d167f76201127d358bce2_galaxy-tv" $ExtFilter="TVSources",Galaxy TV
+#EXTGRP:Познавательные
+TVSources &id='galaxy tv_00'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Дикая рыбалка HD.png" tvg-id="b304261c363d167f76201127d358bce2_rybalka-i-oxota",Рыбалка и охота
+#EXTGRP:Мужские
+https://sc.id-tv.kz:443/Ribalka_Ohota_36_37.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Дикая рыбалка HD.png" tvg-id="b304261c363d167f76201127d358bce2_rybalka-i-oxota" $ExtFilter="TVSources",Рыбалка и охота
+#EXTGRP:Мужские
+TVSources &id='rybalka i okhota_d0'
+#EXTINF:-1 tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="b304261c363d167f76201127d358bce2_rossia1-pl2" $ExtFilter="TVSources",Россия 1 (+2)
+#EXTGRP:Федеральные
+TVSources &id='rossiya 1 (+2)_00'
